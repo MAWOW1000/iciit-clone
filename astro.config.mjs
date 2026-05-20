@@ -4,6 +4,6 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: process.env.SITE_URL || 'https://www.iciit.org',
   output: 'static',
-  trailingSlash: 'always',
+  trailingSlash: 'never',
   integrations: [sitemap()],
 });
