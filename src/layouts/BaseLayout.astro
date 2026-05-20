@@ -1,0 +1,52 @@
+---
+import Header from '../components/Header.astro';
+import Navigation from '../components/Navigation.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+
+const {
+  title = 'ICIIT2026 | Intelligent Information Technology',
+  description = '2026 11th International Conference on Intelligent Information Technology, March 05-08, 2026, Da Nang, Vietnam.',
+  canonical,
+  image = '/site/images/header.jpg',
+} = Astro.props;
+
+const canonicalUrl = canonical || new URL(Astro.url.pathname, Astro.site).toString();
+const imageUrl = new URL(image, Astro.site).toString();
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:image" content={imageUrl} />
+    <link rel="shortcut icon" href="/site/favicon.ico" />
+    <link rel="stylesheet" href="/site/css/style.css" />
+    <link rel="stylesheet" href="/site/css/colorbox.css" />
+    <link rel="stylesheet" href="/site/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="/site/css/shortcodes.css" />
+    <link rel="stylesheet" href="/site/css/custom.css" />
+  </head>
+  <body
+    class="home page-template page-template-template-biz page-template-template-biz-php page page-id-2 chrome alt-style-default two-col-left width-960 two-col-left-960"
+  >
+    <div id="wrapper">
+      <div id="inner-wrapper">
+        <h3 class="nav-toggle icon"><a href="#navigation">Navigation</a></h3>
+        <Header />
+        <Navigation />
+        <slot />
+        <Footer />
+      </div>
+    </div>
+    <div class="fix"></div>
+  </body>
+</html>

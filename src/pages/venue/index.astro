@@ -1,0 +1,17 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { normalizeAssetLinks } from '../../lib/routes.js';
+import contentHtml from '../../content-fragments/venue.html?raw';
+
+const title = `ICIIT2026丨Intelligent Information Technology`;
+const description = `Conference Venue SWINBURNE VIETNAM Addr: Lot 1+2-A14-16 North Memorial Park Area, September 2nd Street, Hoa Cuong Bac, Hai Chau, Da Nang, Vietnam`;
+const content = normalizeAssetLinks(contentHtml);
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={new URL('/venue/', Astro.site).toString()}
+>
+  <Fragment set:html={content} />
+</BaseLayout>

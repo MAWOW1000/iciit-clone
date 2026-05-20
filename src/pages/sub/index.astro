@@ -1,0 +1,17 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { normalizeAssetLinks } from '../../lib/routes.js';
+import contentHtml from '../../content-fragments/sub.html?raw';
+
+const title = `ICIIT2026丨Intelligent Information Technology`;
+const description = `Paper Submission Paper Publication After peer reviewed by 2-3 technical committee or reviewers, accepted and registered papers with presentation can be`;
+const content = normalizeAssetLinks(contentHtml);
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={new URL('/sub/', Astro.site).toString()}
+>
+  <Fragment set:html={content} />
+</BaseLayout>

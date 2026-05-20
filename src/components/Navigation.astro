@@ -1,0 +1,50 @@
+---
+import { navItems } from '../lib/navigation.js';
+
+const currentPath = Astro.url.pathname;
+
+function isActive(href) {
+  return currentPath === href || (href !== '/' && currentPath.startsWith(href));
+}
+---
+
+<nav id="navigation" class="col-full" role="navigation">
+  <section class="menus nav-icons nav-icons-1">
+    <a href="/" class="nav-home"><span>Home</span></a>
+    <h3>Main Menu</h3>
+    <ul id="main-nav" class="nav fl">
+      {
+        navItems.map((item) => (
+          <li
+            class:list={[
+              'menu-item',
+              'menu-item-type-custom',
+              'menu-item-object-custom',
+              item.children && 'menu-item-has-children',
+              isActive(item.href) && 'current-menu-item current_page_item',
+            ]}
+          >
+            <a href={item.href}>{item.label}</a>
+            {item.children && (
+              <ul class="sub-menu">
+                {item.children.map((child) => (
+                  <li
+                    class:list={[
+                      'menu-item',
+                      'menu-item-type-custom',
+                      'menu-item-object-custom',
+                      isActive(child.href) && 'current-menu-item current_page_item',
+                    ]}
+                  >
+                    <a href={child.href}>{child.label}</a>
+                  </li>
+                ))}
+              </ul>
+            )}
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+  <a href="#top" class="nav-close"><span>Return to Content</span></a>
+</nav>

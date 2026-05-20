@@ -1,0 +1,17 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { normalizeAssetLinks } from '../../lib/routes.js';
+import contentHtml from '../../content-fragments/iciit2022.html?raw';
+
+const title = `ICIIT2026丨Intelligent Information Technology`;
+const description = `About ICIIT 2022 2022 International Conference on Intelligent Information Technology (ICIIT 2022) has been held successfully in Foshan, China`;
+const content = normalizeAssetLinks(contentHtml);
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={new URL('/iciit2022/', Astro.site).toString()}
+>
+  <Fragment set:html={content} />
+</BaseLayout>

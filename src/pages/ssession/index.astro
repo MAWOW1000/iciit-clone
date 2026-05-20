@@ -1,0 +1,17 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { normalizeAssetLinks } from '../../lib/routes.js';
+import contentHtml from '../../content-fragments/ssession.html?raw';
+
+const title = `ICIIT2026丨Intelligent Information Technology`;
+const description = `Call for Special Session Special Session 1: Intelligent Medical Data Analytics Intelligent medical data analysis (IMDA) is an essential issue in the`;
+const content = normalizeAssetLinks(contentHtml);
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={new URL('/ssession/', Astro.site).toString()}
+>
+  <Fragment set:html={content} />
+</BaseLayout>

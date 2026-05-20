@@ -1,0 +1,17 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { normalizeAssetLinks } from '../../lib/routes.js';
+import contentHtml from '../../content-fragments/PI.html?raw';
+
+const title = `ICIIT2026丨Intelligent Information Technology`;
+const description = `Presentation Instruction Instructions for Oral Presentations Devices Provided by the Conference Organizer: Laptop Computer (MS Windows Operating System with`;
+const content = normalizeAssetLinks(contentHtml);
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={new URL('/PI/', Astro.site).toString()}
+>
+  <Fragment set:html={content} />
+</BaseLayout>

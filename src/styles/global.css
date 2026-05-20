@@ -1,0 +1,44 @@
+#logo img {
+  max-width: 100%;
+  height: auto;
+}
+
+#navigation a {
+  cursor: pointer;
+}
+
+#main img,
+.entry img,
+#sidebar img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media only screen and (max-width: 767px) {
+  #wrapper,
+  .col-full,
+  #content,
+  #main,
+  #sidebar {
+    width: auto !important;
+    max-width: 100% !important;
+  }
+
+  #inner-wrapper,
+  #content,
+  #main,
+  #sidebar {
+    box-sizing: border-box;
+  }
+
+  #main-sidebar-container {
+    display: block;
+  }
+
+  table {
+    max-width: 100%;
+    width: 100% !important;
+    display: block;
+    overflow-x: auto;
+  }
+}
