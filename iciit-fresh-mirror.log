@@ -1,0 +1,2987 @@
+--2026-05-20 21:29:27--  https://www.iciit.org/index.html
+Resolving www.iciit.org (www.iciit.org)... 101.32.203.163
+Connecting to www.iciit.org (www.iciit.org)|101.32.203.163|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 34370 (34K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/index.html’
+
+     0K .......... .......... .......... ...                  100% 11.4M=0.003s
+
+2026-05-20 21:29:27 (11.4 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/index.html’ saved [34370/34370]
+
+Loading robots.txt; please ignore errors.
+--2026-05-20 21:29:27--  https://www.iciit.org/robots.txt
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:27 ERROR 404: Not Found.
+
+--2026-05-20 21:29:27--  https://www.iciit.org/favicon.ico
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4286 (4.2K) [image/x-icon]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/favicon.ico’
+
+     0K ....                                                  100%  181M=0s
+
+2026-05-20 21:29:28 (181 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/favicon.ico’ saved [4286/4286]
+
+--2026-05-20 21:29:28--  https://www.iciit.org/feed.txt
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 757 [text/plain]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/feed.txt’
+
+     0K                                                       100% 37.1M=0s
+
+2026-05-20 21:29:28 (37.1 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/feed.txt’ saved [757/757]
+
+--2026-05-20 21:29:28--  https://www.iciit.org/feed-a.txt
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 757 [text/plain]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/feed-a.txt’
+
+     0K                                                       100% 29.4M=0s
+
+2026-05-20 21:29:28 (29.4 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/feed-a.txt’ saved [757/757]
+
+--2026-05-20 21:29:28--  https://www.iciit.org/css/style.css
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 137667 (134K) [text/css]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/css/style.css’
+
+     0K .......... .......... .......... .......... .......... 37%  521K 0s
+    50K .......... .......... .......... .......... .......... 74%  241K 0s
+   100K .......... .......... .......... ....                 100% 4.10M=0.3s
+
+2026-05-20 21:29:28 (431 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/css/style.css’ saved [137667/137667]
+
+--2026-05-20 21:29:28--  https://www.iciit.org/css/colorbox.css
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5181 (5.1K) [text/css]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/css/colorbox.css’
+
+     0K .....                                                 100%  349M=0s
+
+2026-05-20 21:29:28 (349 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/css/colorbox.css’ saved [5181/5181]
+
+--2026-05-20 21:29:28--  https://www.iciit.org/js/jquery.js
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 97184 (95K) [application/javascript]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/js/jquery.js’
+
+     0K .......... .......... .......... .......... .......... 52% 12.9M 0s
+    50K .......... .......... .......... .......... ....      100%  446K=0.1s
+
+2026-05-20 21:29:29 (908 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/js/jquery.js’ saved [97184/97184]
+
+--2026-05-20 21:29:29--  https://www.iciit.org/js/jquery-migrate.min.js
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10056 (9.8K) [application/javascript]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/js/jquery-migrate.min.js’
+
+     0K .........                                             100%  512M=0s
+
+2026-05-20 21:29:29 (512 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/js/jquery-migrate.min.js’ saved [10056/10056]
+
+--2026-05-20 21:29:29--  https://www.iciit.org/js/third-party.min.js
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1983 (1.9K) [application/javascript]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/js/third-party.min.js’
+
+     0K .                                                     100% 95.6M=0s
+
+2026-05-20 21:29:29 (95.6 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/js/third-party.min.js’ saved [1983/1983]
+
+--2026-05-20 21:29:29--  https://www.iciit.org/js/modernizr.min.js
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5046 (4.9K) [application/javascript]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/js/modernizr.min.js’
+
+     0K ....                                                  100%  313M=0s
+
+2026-05-20 21:29:29 (313 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/js/modernizr.min.js’ saved [5046/5046]
+
+--2026-05-20 21:29:29--  https://www.iciit.org/js/jquery.flexslider.min.js
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22343 (22K) [application/javascript]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/js/jquery.flexslider.min.js’
+
+     0K .......... .......... .                               100%  453K=0.05s
+
+2026-05-20 21:29:29 (453 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/js/jquery.flexslider.min.js’ saved [22343/22343]
+
+--2026-05-20 21:29:29--  https://www.iciit.org/js/general.min.js
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1852 (1.8K) [application/javascript]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/js/general.min.js’
+
+     0K .                                                     100%  113M=0s
+
+2026-05-20 21:29:29 (113 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/js/general.min.js’ saved [1852/1852]
+
+--2026-05-20 21:29:30--  https://www.iciit.org/js/xmlrpc.php.xml
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 842 [text/xml]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/js/xmlrpc.php.xml’
+
+     0K                                                       100% 17.7M=0s
+
+2026-05-20 21:29:30 (17.7 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/js/xmlrpc.php.xml’ saved [842/842]
+
+--2026-05-20 21:29:30--  https://www.iciit.org/js/xmlrpc.php-a.xml
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 842 [text/xml]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/js/xmlrpc.php-a.xml’
+
+     0K                                                       100% 51.1M=0s
+
+2026-05-20 21:29:30 (51.1 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/js/xmlrpc.php-a.xml’ saved [842/842]
+
+--2026-05-20 21:29:30--  https://www.iciit.org/js/wlwmanifest.xml
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:30 ERROR 404: Not Found.
+
+--2026-05-20 21:29:30--  https://www.iciit.org/js/embed
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:30 ERROR 404: Not Found.
+
+--2026-05-20 21:29:30--  https://www.iciit.org/js/embed.xml
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2273 (2.2K) [text/xml]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/js/embed.xml’
+
+     0K ..                                                    100%  130M=0s
+
+2026-05-20 21:29:30 (130 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/js/embed.xml’ saved [2273/2273]
+
+--2026-05-20 21:29:30--  https://www.iciit.org/css/shortcodes.css
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 28300 (28K) [text/css]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/css/shortcodes.css’
+
+     0K .......... .......... .......                         100%  844K=0.03s
+
+2026-05-20 21:29:30 (844 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/css/shortcodes.css’ saved [28300/28300]
+
+--2026-05-20 21:29:30--  https://www.iciit.org/css/custom.css
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 610 [text/css]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/css/custom.css’
+
+     0K                                                       100% 22.0M=0s
+
+2026-05-20 21:29:30 (22.0 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/css/custom.css’ saved [610/610]
+
+--2026-05-20 21:29:30--  https://www.iciit.org/images/header.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 57571 (56K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/header.jpg’
+
+     0K .......... .......... .......... .......... .......... 88%  448K 0s
+    50K ......                                                100% 11.6T=0.1s
+
+2026-05-20 21:29:30 (503 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/header.jpg’ saved [57571/57571]
+
+--2026-05-20 21:29:31--  https://www.iciit.org/
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 304 Not Modified
+File ‘/tmp/iciit-404-capture/www.iciit.org/index.html’ not modified on server. Omitting download.
+
+--2026-05-20 21:29:31--  https://www.iciit.org/cfp.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24776 (24K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/cfp.html’
+
+     0K .......... .......... ....                            100% 1.31M=0.02s
+
+2026-05-20 21:29:31 (1.31 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/cfp.html’ saved [24776/24776]
+
+--2026-05-20 21:29:31--  https://www.iciit.org/com.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 28946 (28K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/com.html’
+
+     0K .......... .......... ........                        100%  831K=0.03s
+
+2026-05-20 21:29:31 (831 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/com.html’ saved [28946/28946]
+
+--2026-05-20 21:29:31--  https://www.iciit.org/keynote.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23999 (23K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/keynote.html’
+
+     0K .......... .......... ...                             100%  222M=0s
+
+2026-05-20 21:29:31 (222 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/keynote.html’ saved [23999/23999]
+
+--2026-05-20 21:29:31--  https://www.iciit.org/invited.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 31273 (31K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/invited.html’
+
+     0K .......... .......... ..........                      100% 1.16M=0.03s
+
+2026-05-20 21:29:31 (1.16 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/invited.html’ saved [31273/31273]
+
+--2026-05-20 21:29:31--  https://www.iciit.org/pasts.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 26257 (26K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/pasts.html’
+
+     0K .......... .......... .....                           100% 3.46M=0.007s
+
+2026-05-20 21:29:31 (3.46 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/pasts.html’ saved [26257/26257]
+
+--2026-05-20 21:29:31--  https://www.iciit.org/prog.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24109 (24K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/prog.html’
+
+     0K .......... .......... ...                             100% 1.51M=0.02s
+
+2026-05-20 21:29:32 (1.51 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/prog.html’ saved [24109/24109]
+
+--2026-05-20 21:29:32--  https://www.iciit.org/date.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23678 (23K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/date.html’
+
+     0K .......... .......... ...                             100% 1.72M=0.01s
+
+2026-05-20 21:29:32 (1.72 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/date.html’ saved [23678/23678]
+
+--2026-05-20 21:29:32--  https://www.iciit.org/sub.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 26331 (26K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/sub.html’
+
+     0K .......... .......... .....                           100% 1.11M=0.02s
+
+2026-05-20 21:29:32 (1.11 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/sub.html’ saved [26331/26331]
+
+--2026-05-20 21:29:32--  https://www.iciit.org/PI.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22653 (22K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/PI.html’
+
+     0K .......... .......... ..                              100% 1.59M=0.01s
+
+2026-05-20 21:29:32 (1.59 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/PI.html’ saved [22653/22653]
+
+--2026-05-20 21:29:32--  https://www.iciit.org/reg.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 41454 (40K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/reg.html’
+
+     0K .......... .......... .......... ..........           100%  703K=0.06s
+
+2026-05-20 21:29:32 (703 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/reg.html’ saved [41454/41454]
+
+--2026-05-20 21:29:32--  https://www.iciit.org/sponsor.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23271 (23K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/sponsor.html’
+
+     0K .......... .......... ..                              100% 1.29M=0.02s
+
+2026-05-20 21:29:32 (1.29 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/sponsor.html’ saved [23271/23271]
+
+--2026-05-20 21:29:32--  https://www.iciit.org/history.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 27344 (27K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/history.html’
+
+     0K .......... .......... ......                          100% 1.13M=0.02s
+
+2026-05-20 21:29:32 (1.13 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/history.html’ saved [27344/27344]
+
+--2026-05-20 21:29:32--  https://www.iciit.org/iciit2025.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22558 (22K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/iciit2025.html’
+
+     0K .......... .......... ..                              100% 1.45M=0.01s
+
+2026-05-20 21:29:33 (1.45 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/iciit2025.html’ saved [22558/22558]
+
+--2026-05-20 21:29:33--  https://www.iciit.org/iciit2024.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22768 (22K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/iciit2024.html’
+
+     0K .......... .......... ..                              100% 1.62M=0.01s
+
+2026-05-20 21:29:34 (1.62 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/iciit2024.html’ saved [22768/22768]
+
+--2026-05-20 21:29:34--  https://www.iciit.org/iciit2023.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21811 (21K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/iciit2023.html’
+
+     0K .......... .......... .                               100% 2.38M=0.009s
+
+2026-05-20 21:29:34 (2.38 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/iciit2023.html’ saved [21811/21811]
+
+--2026-05-20 21:29:34--  https://www.iciit.org/iciit2022.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24115 (24K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/iciit2022.html’
+
+     0K .......... .......... ...                             100% 1.49M=0.02s
+
+2026-05-20 21:29:34 (1.49 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/iciit2022.html’ saved [24115/24115]
+
+--2026-05-20 21:29:34--  https://www.iciit.org/iciit2021.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21300 (21K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/iciit2021.html’
+
+     0K .......... ..........                                 100% 2.06M=0.01s
+
+2026-05-20 21:29:34 (2.06 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/iciit2021.html’ saved [21300/21300]
+
+--2026-05-20 21:29:34--  https://www.iciit.org/iciit2020.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22496 (22K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/iciit2020.html’
+
+     0K .......... .......... .                               100% 1.19M=0.02s
+
+2026-05-20 21:29:34 (1.19 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/iciit2020.html’ saved [22496/22496]
+
+--2026-05-20 21:29:34--  https://www.iciit.org/iciit2019.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22714 (22K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/iciit2019.html’
+
+     0K .......... .......... ..                              100% 2.12M=0.01s
+
+2026-05-20 21:29:34 (2.12 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/iciit2019.html’ saved [22714/22714]
+
+--2026-05-20 21:29:35--  https://www.iciit.org/iciit2018.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23329 (23K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/iciit2018.html’
+
+     0K .......... .......... ..                              100%  568K=0.04s
+
+2026-05-20 21:29:35 (568 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/iciit2018.html’ saved [23329/23329]
+
+--2026-05-20 21:29:35--  https://www.iciit.org/venue.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23916 (23K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/venue.html’
+
+     0K .......... .......... ...                             100%  869K=0.03s
+
+2026-05-20 21:29:35 (869 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/venue.html’ saved [23916/23916]
+
+--2026-05-20 21:29:35--  https://www.iciit.org/visit.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23156 (23K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/visit.html’
+
+     0K .......... .......... ..                              100% 1.20M=0.02s
+
+2026-05-20 21:29:35 (1.20 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/visit.html’ saved [23156/23156]
+
+--2026-05-20 21:29:35--  https://www.iciit.org/contact.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21835 (21K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/contact.html’
+
+     0K .......... .......... .                               100% 2.51M=0.008s
+
+2026-05-20 21:29:35 (2.51 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/contact.html’ saved [21835/21835]
+
+--2026-05-20 21:29:35--  https://www.iciit.org/images/h1.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 176570 (172K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/h1.jpg’
+
+     0K .......... .......... .......... .......... .......... 28%  506K 0s
+    50K .......... .......... .......... .......... .......... 57%  386K 0s
+   100K .......... .......... .......... .......... .......... 86%  446K 0s
+   150K .......... .......... ..                              100%  599K=0.4s
+
+2026-05-20 21:29:36 (457 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/h1.jpg’ saved [176570/176570]
+
+--2026-05-20 21:29:36--  https://www.iciit.org/images/h2.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 152687 (149K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/h2.jpg’
+
+     0K .......... .......... .......... .......... .......... 33%  612K 0s
+    50K .......... .......... .......... .......... .......... 67%  325K 0s
+   100K .......... .......... .......... .......... ......... 100%  363K=0.4s
+
+2026-05-20 21:29:36 (402 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/h2.jpg’ saved [152687/152687]
+
+--2026-05-20 21:29:36--  https://www.iciit.org/images/h3.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 162832 (159K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/h3.jpg’
+
+     0K .......... .......... .......... .......... .......... 31%  390K 0s
+    50K .......... .......... .......... .......... .......... 62%  438K 0s
+   100K .......... .......... .......... .......... .......... 94%  493K 0s
+   150K .........                                             100% 16.8T=0.3s
+
+2026-05-20 21:29:37 (463 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/h3.jpg’ saved [162832/162832]
+
+--2026-05-20 21:29:37--  https://www.iciit.org/ICIIT2026CFP.pdf
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 523012 (511K) [application/pdf]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/ICIIT2026CFP.pdf’
+
+     0K .......... .......... .......... .......... ..........  9%  243K 2s
+    50K .......... .......... .......... .......... .......... 19%  842K 1s
+   100K .......... .......... .......... .......... .......... 29%  322K 1s
+   150K .......... .......... .......... .......... .......... 39%  640K 1s
+   200K .......... .......... .......... .......... .......... 48%  213K 1s
+   250K .......... .......... .......... .......... .......... 58%  312K 1s
+   300K .......... .......... .......... .......... .......... 68%  414K 0s
+   350K .......... .......... .......... .......... .......... 78% 12.1K 1s
+   400K .......... .......... .......... .......... .......... 88%  320K 1s
+   450K .......... .......... .......... .......... .......... 97%  485K 0s
+   500K ..........                                            100% 20.0T=5.4s
+
+2026-05-20 21:29:43 (94.7 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/ICIIT2026CFP.pdf’ saved [523012/523012]
+
+--2026-05-20 21:29:43--  https://www.iciit.org/images%5COptoelectronics%20Letters.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:43 ERROR 404: Not Found.
+
+--2026-05-20 21:29:43--  https://www.iciit.org/ICIIT2026poster1.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4129028 (3.9M) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/ICIIT2026poster1.jpg’
+
+     0K .......... .......... .......... .......... ..........  1% 1.18M 3s
+    50K .......... .......... .......... .......... ..........  2% 1.10M 3s
+   100K .......... .......... .......... .......... ..........  3%  412K 5s
+   150K .......... .......... .......... .......... ..........  4% 1.85M 4s
+   200K .......... .......... .......... .......... ..........  6% 1.75M 4s
+   250K .......... .......... .......... .......... ..........  7%  548K 4s
+   300K .......... .......... .......... .......... ..........  8% 1.13M 4s
+   350K .......... .......... .......... .......... ..........  9%  559K 4s
+   400K .......... .......... .......... .......... .......... 11%  764K 4s
+   450K .......... .......... .......... .......... .......... 12%  763K 4s
+   500K .......... .......... .......... .......... .......... 13% 1.13M 4s
+   550K .......... .......... .......... .......... .......... 14% 1.00M 4s
+   600K .......... .......... .......... .......... .......... 16%  522K 4s
+   650K .......... .......... .......... .......... .......... 17%  457K 4s
+   700K .......... .......... .......... .......... .......... 18%  494K 4s
+   750K .......... .......... .......... .......... .......... 19%  283K 5s
+   800K .......... .......... .......... .......... .......... 21%  358K 5s
+   850K .......... .......... .......... .......... .......... 22% 1.01M 5s
+   900K .......... .......... .......... .......... .......... 23% 1.08M 5s
+   950K .......... .......... .......... .......... .......... 24%  642K 5s
+  1000K .......... .......... .......... .......... .......... 26% 1.40M 4s
+  1050K .......... .......... .......... .......... .......... 27% 1.37M 4s
+  1100K .......... .......... .......... .......... .......... 28% 2.04M 4s
+  1150K .......... .......... .......... .......... .......... 29% 1.61M 4s
+  1200K .......... .......... .......... .......... .......... 31%  581K 4s
+  1250K .......... .......... .......... .......... .......... 32% 1.64M 4s
+  1300K .......... .......... .......... .......... .......... 33% 4.26M 3s
+  1350K .......... .......... .......... .......... .......... 34% 1.16M 3s
+  1400K .......... .......... .......... .......... .......... 35% 2.52M 3s
+  1450K .......... .......... .......... .......... .......... 37% 1.57M 3s
+  1500K .......... .......... .......... .......... .......... 38%  946K 3s
+  1550K .......... .......... .......... .......... .......... 39%  844K 3s
+  1600K .......... .......... .......... .......... .......... 40%  754K 3s
+  1650K .......... .......... .......... .......... .......... 42% 1.41M 3s
+  1700K .......... .......... .......... .......... .......... 43%  618K 3s
+  1750K .......... .......... .......... .......... .......... 44% 1.02M 3s
+  1800K .......... .......... .......... .......... .......... 45%  515K 3s
+  1850K .......... .......... .......... .......... .......... 47% 1.15M 3s
+  1900K .......... .......... .......... .......... .......... 48% 2.49M 3s
+  1950K .......... .......... .......... .......... .......... 49% 1.25M 2s
+  2000K .......... .......... .......... .......... .......... 50%  475K 2s
+  2050K .......... .......... .......... .......... .......... 52% 3.75M 2s
+  2100K .......... .......... .......... .......... .......... 53% 1.66M 2s
+  2150K .......... .......... .......... .......... .......... 54% 1.85M 2s
+  2200K .......... .......... .......... .......... .......... 55%  539K 2s
+  2250K .......... .......... .......... .......... .......... 57% 1.85M 2s
+  2300K .......... .......... .......... .......... .......... 58% 1.52M 2s
+  2350K .......... .......... .......... .......... .......... 59%  393K 2s
+  2400K .......... .......... .......... .......... .......... 60% 3.60M 2s
+  2450K .......... .......... .......... .......... .......... 62% 2.19M 2s
+  2500K .......... .......... .......... .......... .......... 63% 3.29M 2s
+  2550K .......... .......... .......... .......... .......... 64%  961K 2s
+  2600K .......... .......... .......... .......... .......... 65% 2.50M 2s
+  2650K .......... .......... .......... .......... .......... 66% 3.31M 1s
+  2700K .......... .......... .......... .......... .......... 68% 1006K 1s
+  2750K .......... .......... .......... .......... .......... 69% 1.00M 1s
+  2800K .......... .......... .......... .......... .......... 70%  928K 1s
+  2850K .......... .......... .......... .......... .......... 71% 1.92M 1s
+  2900K .......... .......... .......... .......... .......... 73% 1.46M 1s
+  2950K .......... .......... .......... .......... .......... 74% 1.28M 1s
+  3000K .......... .......... .......... .......... .......... 75%  857K 1s
+  3050K .......... .......... .......... .......... .......... 76% 3.45M 1s
+  3100K .......... .......... .......... .......... .......... 78% 2.52M 1s
+  3150K .......... .......... .......... .......... .......... 79% 1.74M 1s
+  3200K .......... .......... .......... .......... .......... 80% 1.04M 1s
+  3250K .......... .......... .......... .......... .......... 81% 1.04M 1s
+  3300K .......... .......... .......... .......... .......... 83% 1.14M 1s
+  3350K .......... .......... .......... .......... .......... 84% 2.79M 1s
+  3400K .......... .......... .......... .......... .......... 85%  735K 1s
+  3450K .......... .......... .......... .......... .......... 86% 2.12M 1s
+  3500K .......... .......... .......... .......... .......... 88% 1.53M 0s
+  3550K .......... .......... .......... .......... .......... 89%  980K 0s
+  3600K .......... .......... .......... .......... .......... 90% 3.61M 0s
+  3650K .......... .......... .......... .......... .......... 91% 1.78M 0s
+  3700K .......... .......... .......... .......... .......... 93% 3.58M 0s
+  3750K .......... .......... .......... .......... .......... 94%  817K 0s
+  3800K .......... .......... .......... .......... .......... 95% 3.80M 0s
+  3850K .......... .......... .......... .......... .......... 96%  809K 0s
+  3900K .......... .......... .......... .......... .......... 97% 2.34M 0s
+  3950K .......... .......... .......... .......... .......... 99% 1.68M 0s
+  4000K .......... .......... .......... ..                   100%  475K=4.0s
+
+2026-05-20 21:29:47 (1012 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/ICIIT2026poster1.jpg’ saved [4129028/4129028]
+
+--2026-05-20 21:29:47--  https://www.iciit.org/ICIIT2026poster.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 48206 (47K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/ICIIT2026poster.jpg’
+
+     0K .......... .......... .......... .......... .......   100% 1.28M=0.04s
+
+2026-05-20 21:29:47 (1.28 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/ICIIT2026poster.jpg’ saved [48206/48206]
+
+--2026-05-20 21:29:48--  https://www.iciit.org/images/ICIIT2024/EI.lnk.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 156504 (153K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/EI.lnk.png’
+
+     0K .......... .......... .......... .......... .......... 32%  397K 0s
+    50K .......... .......... .......... .......... .......... 65% 1.58M 0s
+   100K .......... .......... .......... .......... .......... 98% 1.80M 0s
+   150K ..                                                    100% 5.28T=0.2s
+
+2026-05-20 21:29:48 (831 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/EI.lnk.png’ saved [156504/156504]
+
+--2026-05-20 21:29:48--  https://www.iciit.org/images/ICIIT2024/SCOPUS.lnk.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 176024 (172K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/SCOPUS.lnk.png’
+
+     0K .......... .......... .......... .......... .......... 29% 1.92M 0s
+    50K .......... .......... .......... .......... .......... 58% 1.89M 0s
+   100K .......... .......... .......... .......... .......... 87% 1.13M 0s
+   150K .......... .......... .                               100% 5.20M=0.1s
+
+2026-05-20 21:29:48 (1.70 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/SCOPUS.lnk.png’ saved [176024/176024]
+
+--2026-05-20 21:29:48--  https://www.iciit.org/images/ICIIT2023/ICIIT2023EI.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 69292 (68K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2023/ICIIT2023EI.jpg’
+
+     0K .......... .......... .......... .......... .......... 73% 1.11M 0s
+    50K .......... .......                                    100% 2.46M=0.05s
+
+2026-05-20 21:29:48 (1.30 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2023/ICIIT2023EI.jpg’ saved [69292/69292]
+
+--2026-05-20 21:29:48--  https://www.iciit.org/images/ICIIT2023/ICIIT2023SCOPUS.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 57770 (56K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2023/ICIIT2023SCOPUS.jpg’
+
+     0K .......... .......... .......... .......... .......... 88% 2.93M 0s
+    50K ......                                                100% 12.0T=0.02s
+
+2026-05-20 21:29:48 (3.30 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2023/ICIIT2023SCOPUS.jpg’ saved [57770/57770]
+
+--2026-05-20 21:29:48--  https://www.iciit.org/images/logo-fpt.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5790 (5.7K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/logo-fpt.png’
+
+     0K .....                                                 100%  249M=0s
+
+2026-05-20 21:29:48 (249 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/logo-fpt.png’ saved [5790/5790]
+
+--2026-05-20 21:29:48--  https://www.iciit.org/images/Logo-Swinburne.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7809 (7.6K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/Logo-Swinburne.png’
+
+     0K .......                                               100%  288M=0s
+
+2026-05-20 21:29:49 (288 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/Logo-Swinburne.png’ saved [7809/7809]
+
+--2026-05-20 21:29:49--  https://www.iciit.org/images/cbees.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6326 (6.2K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/cbees.jpg’
+
+     0K ......                                                100%  270M=0s
+
+2026-05-20 21:29:49 (270 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/cbees.jpg’ saved [6326/6326]
+
+--2026-05-20 21:29:49--  https://www.iciit.org/images/HVU.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13264 (13K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/HVU.jpg’
+
+     0K .......... ..                                         100%  288M=0s
+
+2026-05-20 21:29:49 (288 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/HVU.jpg’ saved [13264/13264]
+
+--2026-05-20 21:29:49--  https://www.iciit.org/images/FU.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10367 (10K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/FU.png’
+
+     0K ..........                                            100%  808M=0s
+
+2026-05-20 21:29:49 (808 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/FU.png’ saved [10367/10367]
+
+--2026-05-20 21:29:49--  https://www.iciit.org/images/faai.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6916 (6.8K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/faai.jpg’
+
+     0K ......                                                100%  227M=0s
+
+2026-05-20 21:29:49 (227 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/faai.jpg’ saved [6916/6916]
+
+--2026-05-20 21:29:49--  https://www.iciit.org/images/eecs_logo.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4735 (4.6K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/eecs_logo.jpg’
+
+     0K ....                                                  100%  361M=0s
+
+2026-05-20 21:29:49 (361 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/eecs_logo.jpg’ saved [4735/4735]
+
+--2026-05-20 21:29:49--  https://www.iciit.org/images/speaker/Slim%20Alouini.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 20642 (20K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Slim Alouini.jpg’
+
+     0K .......... ..........                                 100% 10.6M=0.002s
+
+2026-05-20 21:29:49 (10.6 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Slim Alouini.jpg’ saved [20642/20642]
+
+--2026-05-20 21:29:49--  https://www.iciit.org/images/com/ZhihuaWang.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9340 (9.1K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/com/ZhihuaWang.jpg’
+
+     0K .........                                             100%  225M=0s
+
+2026-05-20 21:29:49 (225 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/com/ZhihuaWang.jpg’ saved [9340/9340]
+
+--2026-05-20 21:29:49--  https://www.iciit.org/images/speaker/Kiyoshi%20Hoshino.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 29444 (29K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Kiyoshi Hoshino.png’
+
+     0K .......... .......... ........                        100% 1.24M=0.02s
+
+2026-05-20 21:29:49 (1.24 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Kiyoshi Hoshino.png’ saved [29444/29444]
+
+--2026-05-20 21:29:49--  https://www.iciit.org/images/speaker/Vinod%20Achutavarrier%20Prasad.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 14761 (14K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Vinod Achutavarrier Prasad.jpg’
+
+     0K .......... ....                                       100%  422M=0s
+
+2026-05-20 21:29:50 (422 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Vinod Achutavarrier Prasad.jpg’ saved [14761/14761]
+
+--2026-05-20 21:29:50--  https://www.iciit.org/images/speaker/Chuan%20Ming%20Liu.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 47415 (46K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Chuan Ming Liu.png’
+
+     0K .......... .......... .......... .......... ......    100% 2.62M=0.02s
+
+2026-05-20 21:29:50 (2.62 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Chuan Ming Liu.png’ saved [47415/47415]
+
+--2026-05-20 21:29:50--  https://www.iciit.org/js/comment-reply.min.js
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1078 (1.1K) [application/javascript]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/js/comment-reply.min.js’
+
+     0K .                                                     100% 82.5M=0s
+
+2026-05-20 21:29:50 (82.5 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/js/comment-reply.min.js’ saved [1078/1078]
+
+--2026-05-20 21:29:50--  https://www.iciit.org/js/jquery.colorbox.1.5.9.js
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 29153 (28K) [application/javascript]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/js/jquery.colorbox.1.5.9.js’
+
+     0K .......... .......... ........                        100% 3.39M=0.008s
+
+2026-05-20 21:29:50 (3.39 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/js/jquery.colorbox.1.5.9.js’ saved [29153/29153]
+
+--2026-05-20 21:29:50--  https://www.iciit.org/js/wp-embed.min.js
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1398 (1.4K) [application/javascript]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/js/wp-embed.min.js’
+
+     0K .                                                     100% 40.1M=0s
+
+2026-05-20 21:29:50 (40.1 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/js/wp-embed.min.js’ saved [1398/1398]
+
+--2026-05-20 21:29:50--  https://www.iciit.org/css/fontawesome-webfont.eot
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70807 (69K) [application/vnd.ms-fontobject]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/css/fontawesome-webfont.eot’
+
+     0K .......... .......... .......... .......... .......... 72%  756K 0s
+    50K .......... .........                                  100%  435M=0.07s
+
+2026-05-20 21:29:50 (1.02 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/css/fontawesome-webfont.eot’ saved [70807/70807]
+
+--2026-05-20 21:29:50--  https://www.iciit.org/css/fontawesome-webfont-a.eot
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70807 (69K) [application/vnd.ms-fontobject]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/css/fontawesome-webfont-a.eot’
+
+     0K .......... .......... .......... .......... .......... 72% 1012K 0s
+    50K .......... .........                                  100%  780K=0.07s
+
+2026-05-20 21:29:50 (935 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/css/fontawesome-webfont-a.eot’ saved [70807/70807]
+
+--2026-05-20 21:29:50--  https://www.iciit.org/css/fontawesome-webfont.woff2
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 66624 (65K) [font/woff2]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/css/fontawesome-webfont.woff2’
+
+     0K .......... .......... .......... .......... .......... 76% 1.22M 0s
+    50K .......... .....                                      100% 12.7M=0.04s
+
+2026-05-20 21:29:51 (1.55 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/css/fontawesome-webfont.woff2’ saved [66624/66624]
+
+--2026-05-20 21:29:51--  https://www.iciit.org/css/fontawesome-webfont.woff
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 83588 (82K) [font/woff]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/css/fontawesome-webfont.woff’
+
+     0K .......... .......... .......... .......... .......... 61% 2.31M 0s
+    50K .......... .......... .......... .                    100% 2.79M=0.03s
+
+2026-05-20 21:29:51 (2.48 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/css/fontawesome-webfont.woff’ saved [83588/83588]
+
+--2026-05-20 21:29:51--  https://www.iciit.org/css/fontawesome-webfont.ttf
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 142072 (139K) [application/octet-stream]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/css/fontawesome-webfont.ttf’
+
+     0K .......... .......... .......... .......... .......... 36%  516K 0s
+    50K .......... .......... .......... .......... .......... 72%  380K 0s
+   100K .......... .......... .......... ........             100%  221K=0.4s
+
+2026-05-20 21:29:51 (343 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/css/fontawesome-webfont.ttf’ saved [142072/142072]
+
+--2026-05-20 21:29:51--  https://www.iciit.org/css/includes/fonts/fontawesome-webfont.svg?v=4.5.0
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:51 ERROR 404: Not Found.
+
+--2026-05-20 21:29:51--  https://www.iciit.org/css/includes/fonts/social.eot
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:51 ERROR 404: Not Found.
+
+--2026-05-20 21:29:51--  https://www.iciit.org/css/includes/fonts/social.eot?
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:52 ERROR 404: Not Found.
+
+--2026-05-20 21:29:52--  https://www.iciit.org/css/includes/fonts/social.woff
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:52 ERROR 404: Not Found.
+
+--2026-05-20 21:29:52--  https://www.iciit.org/css/includes/fonts/social.ttf
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:52 ERROR 404: Not Found.
+
+--2026-05-20 21:29:52--  https://www.iciit.org/css/includes/fonts/social.svg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:52 ERROR 404: Not Found.
+
+--2026-05-20 21:29:52--  https://www.iciit.org/css/images/portfolio-hover.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:52 ERROR 404: Not Found.
+
+--2026-05-20 21:29:52--  https://www.iciit.org/css/images/border1.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:52 ERROR 404: Not Found.
+
+--2026-05-20 21:29:52--  https://www.iciit.org/css/images/border2.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:52 ERROR 404: Not Found.
+
+--2026-05-20 21:29:52--  https://www.iciit.org/css/images/loading.gif
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:52 ERROR 404: Not Found.
+
+--2026-05-20 21:29:52--  https://www.iciit.org/css/images/ie6/borderTopLeft.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:52 ERROR 404: Not Found.
+
+--2026-05-20 21:29:52--  https://www.iciit.org/css/images/ie6/borderTopCenter.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:52 ERROR 404: Not Found.
+
+--2026-05-20 21:29:52--  https://www.iciit.org/css/images/ie6/borderTopRight.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:53 ERROR 404: Not Found.
+
+--2026-05-20 21:29:53--  https://www.iciit.org/css/images/ie6/borderBottomLeft.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:53 ERROR 404: Not Found.
+
+--2026-05-20 21:29:53--  https://www.iciit.org/css/images/ie6/borderBottomCenter.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:53 ERROR 404: Not Found.
+
+--2026-05-20 21:29:53--  https://www.iciit.org/css/images/ie6/borderBottomRight.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:53 ERROR 404: Not Found.
+
+--2026-05-20 21:29:53--  https://www.iciit.org/css/images/ie6/borderMiddleLeft.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:53 ERROR 404: Not Found.
+
+--2026-05-20 21:29:53--  https://www.iciit.org/css/images/ie6/borderMiddleRight.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:53 ERROR 404: Not Found.
+
+--2026-05-20 21:29:53--  https://www.iciit.org/images/ico-alert.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:53 ERROR 404: Not Found.
+
+--2026-05-20 21:29:53--  https://www.iciit.org/images/ico-download.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:53 ERROR 404: Not Found.
+
+--2026-05-20 21:29:53--  https://www.iciit.org/images/ico-tick.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:53 ERROR 404: Not Found.
+
+--2026-05-20 21:29:53--  https://www.iciit.org/images/ico-info.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:53 ERROR 404: Not Found.
+
+--2026-05-20 21:29:53--  https://www.iciit.org/images/ico-note.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:54 ERROR 404: Not Found.
+
+--2026-05-20 21:29:54--  https://www.iciit.org/images/quote.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:54 ERROR 404: Not Found.
+
+--2026-05-20 21:29:54--  https://www.iciit.org/images/shortcode-toggle-close.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:54 ERROR 404: Not Found.
+
+--2026-05-20 21:29:54--  https://www.iciit.org/images/shortcode-toggle-open.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:54 ERROR 404: Not Found.
+
+--2026-05-20 21:29:54--  https://www.iciit.org/images/shortcode-tick.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:54 ERROR 404: Not Found.
+
+--2026-05-20 21:29:54--  https://www.iciit.org/images/shortcode-red-x.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:54 ERROR 404: Not Found.
+
+--2026-05-20 21:29:54--  https://www.iciit.org/images/shortcode-bullet.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:54 ERROR 404: Not Found.
+
+--2026-05-20 21:29:54--  https://www.iciit.org/images/shortcode-green-dot.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:54 ERROR 404: Not Found.
+
+--2026-05-20 21:29:54--  https://www.iciit.org/images/shortcode-arrow.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:54 ERROR 404: Not Found.
+
+--2026-05-20 21:29:54--  https://www.iciit.org/images/shortcode-star.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:29:54 ERROR 404: Not Found.
+
+--2026-05-20 21:29:54--  https://www.iciit.org/css/font-awesome.min.css
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 31000 (30K) [text/css]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/css/font-awesome.min.css’
+
+     0K .......... .......... ..........                      100% 2.83M=0.01s
+
+2026-05-20 21:29:55 (2.83 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/css/font-awesome.min.css’ saved [31000/31000]
+
+--2026-05-20 21:29:55--  https://www.iciit.org/ssession.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23599 (23K) [text/html]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/ssession.html’
+
+     0K .......... .......... ...                             100%  263M=0s
+
+2026-05-20 21:29:55 (263 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/ssession.html’ saved [23599/23599]
+
+--2026-05-20 21:29:55--  https://www.iciit.org/images/speaker/indrusiak.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13299 (13K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/indrusiak.jpg’
+
+     0K .......... ..                                         100%  626M=0s
+
+2026-05-20 21:29:55 (626 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/indrusiak.jpg’ saved [13299/13299]
+
+--2026-05-20 21:29:55--  https://www.iciit.org/images/speaker/Mohd%20Nazri%20Bin%20Ismail.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13129 (13K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Mohd Nazri Bin Ismail.jpg’
+
+     0K .......... ..                                         100%  275M=0s
+
+2026-05-20 21:29:55 (275 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Mohd Nazri Bin Ismail.jpg’ saved [13129/13129]
+
+--2026-05-20 21:29:55--  https://www.iciit.org/images/speaker/Mian%20Zhou.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10952 (11K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Mian Zhou.jpg’
+
+     0K ..........                                            100%  505M=0s
+
+2026-05-20 21:29:55 (505 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Mian Zhou.jpg’ saved [10952/10952]
+
+--2026-05-20 21:29:55--  https://www.iciit.org/images/speaker/jiaxin.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22299 (22K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/jiaxin.png’
+
+     0K .......... .......... .                               100% 12.1M=0.002s
+
+2026-05-20 21:29:55 (12.1 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/jiaxin.png’ saved [22299/22299]
+
+--2026-05-20 21:29:55--  https://www.iciit.org/images/speaker/Thanh%20Tung%20Khuat.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10163 (9.9K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Thanh Tung Khuat.jpg’
+
+     0K .........                                             100%  217M=0s
+
+2026-05-20 21:29:55 (217 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Thanh Tung Khuat.jpg’ saved [10163/10163]
+
+--2026-05-20 21:29:55--  https://www.iciit.org/images/com/Rui%20Zhang.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 25036 (24K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Rui Zhang.jpg’
+
+     0K .......... .......... ....                            100% 1.02M=0.02s
+
+2026-05-20 21:29:55 (1.02 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Rui Zhang.jpg’ saved [25036/25036]
+
+--2026-05-20 21:29:55--  https://www.iciit.org/images/com/Edmund%20Lai.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 33195 (32K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Edmund Lai.png’
+
+     0K .......... .......... .......... ..                   100% 1.03M=0.03s
+
+2026-05-20 21:29:56 (1.03 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Edmund Lai.png’ saved [33195/33195]
+
+--2026-05-20 21:29:56--  https://www.iciit.org/images/com/Prof.%20Francis%20Y.%20L.%20Chin.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 33606 (33K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Prof. Francis Y. L. Chin.jpg’
+
+     0K .......... .......... .......... ..                   100% 2.22M=0.01s
+
+2026-05-20 21:29:56 (2.22 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Prof. Francis Y. L. Chin.jpg’ saved [33606/33606]
+
+--2026-05-20 21:29:56--  https://www.iciit.org/images/com/Alouini.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21314 (21K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Alouini.jpg’
+
+     0K .......... ..........                                 100% 2.96M=0.007s
+
+2026-05-20 21:29:56 (2.96 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Alouini.jpg’ saved [21314/21314]
+
+--2026-05-20 21:29:56--  https://www.iciit.org/images/com/Chuan-Ming%20Liu.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38528 (38K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Chuan-Ming Liu.png’
+
+     0K .......... .......... .......... .......              100%  565K=0.07s
+
+2026-05-20 21:29:56 (565 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Chuan-Ming Liu.png’ saved [38528/38528]
+
+--2026-05-20 21:29:56--  https://www.iciit.org/images/com/Mohd%20Zaid%20Bin%20Abdullah.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 35914 (35K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Mohd Zaid Bin Abdullah.jpg’
+
+     0K .......... .......... .......... .....                100%  901K=0.04s
+
+2026-05-20 21:29:56 (901 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Mohd Zaid Bin Abdullah.jpg’ saved [35914/35914]
+
+--2026-05-20 21:29:56--  https://www.iciit.org/images/speaker/Huh.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15970 (16K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Huh.jpg’
+
+     0K .......... .....                                      100%  481M=0s
+
+2026-05-20 21:29:56 (481 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Huh.jpg’ saved [15970/15970]
+
+--2026-05-20 21:29:56--  https://www.iciit.org/images/speaker/Minh%20Nguyen.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23496 (23K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Minh Nguyen.jpg’
+
+     0K .......... .......... ..                              100% 1.59M=0.01s
+
+2026-05-20 21:29:56 (1.59 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Minh Nguyen.jpg’ saved [23496/23496]
+
+--2026-05-20 21:29:57--  https://www.iciit.org/images/com/Xingbo%20Wang.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 25508 (25K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Xingbo Wang.png’
+
+     0K .......... .......... ....                            100% 1.01M=0.02s
+
+2026-05-20 21:29:57 (1.01 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Xingbo Wang.png’ saved [25508/25508]
+
+--2026-05-20 21:29:57--  https://www.iciit.org/images/com/Hai%20V.%20Pham.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21800 (21K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Hai V. Pham.jpg’
+
+     0K .......... .......... .                               100% 1.46M=0.01s
+
+2026-05-20 21:29:57 (1.46 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Hai V. Pham.jpg’ saved [21800/21800]
+
+--2026-05-20 21:29:57--  https://www.iciit.org/images/com/Akinori%20Ito.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6918 (6.8K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Akinori Ito.jpg’
+
+     0K ......                                                100%  250M=0s
+
+2026-05-20 21:29:57 (250 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Akinori Ito.jpg’ saved [6918/6918]
+
+--2026-05-20 21:29:57--  https://www.iciit.org/images/com/Ford%20Lumban%20Gaol.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6877 (6.7K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Ford Lumban Gaol.jpg’
+
+     0K ......                                                100%  357M=0s
+
+2026-05-20 21:29:57 (357 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Ford Lumban Gaol.jpg’ saved [6877/6877]
+
+--2026-05-20 21:29:57--  https://www.iciit.org/images/speaker/Kimura.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 40236 (39K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Kimura.png’
+
+     0K .......... .......... .......... .........            100%  597K=0.07s
+
+2026-05-20 21:29:58 (597 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Kimura.png’ saved [40236/40236]
+
+--2026-05-20 21:29:58--  https://www.iciit.org/images/com/Xiaolong%20Li.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 18186 (18K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Xiaolong Li.jpg’
+
+     0K .......... .......                                    100% 1.98M=0.009s
+
+2026-05-20 21:29:58 (1.98 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Xiaolong Li.jpg’ saved [18186/18186]
+
+--2026-05-20 21:29:58--  https://www.iciit.org/images/com/Anand%20Nayyar.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 45177 (44K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Anand Nayyar.png’
+
+     0K .......... .......... .......... .......... ....      100%  726K=0.06s
+
+2026-05-20 21:29:58 (726 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Anand Nayyar.png’ saved [45177/45177]
+
+--2026-05-20 21:29:58--  https://www.iciit.org/images/com/Assoc.%20Prof.%20Norma%20Binti%20Alias.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3926 (3.8K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Assoc. Prof. Norma Binti Alias.jpg’
+
+     0K ...                                                   100%  183M=0s
+
+2026-05-20 21:29:58 (183 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Assoc. Prof. Norma Binti Alias.jpg’ saved [3926/3926]
+
+--2026-05-20 21:29:58--  https://www.iciit.org/images/com/Zuriati%20Ahmad%20Zukarnain.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 37610 (37K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Zuriati Ahmad Zukarnain.jpg’
+
+     0K .......... .......... .......... ......               100% 3.58M=0.01s
+
+2026-05-20 21:29:58 (3.58 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/com/Zuriati Ahmad Zukarnain.jpg’ saved [37610/37610]
+
+--2026-05-20 21:29:58--  https://www.iciit.org/images/speaker/Balachandran%20Manavalan.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12951 (13K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Balachandran Manavalan.jpg’
+
+     0K .......... ..                                         100%  268M=0s
+
+2026-05-20 21:29:58 (268 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Balachandran Manavalan.jpg’ saved [12951/12951]
+
+--2026-05-20 21:29:58--  https://www.iciit.org/images/speaker/Hung%20Dang.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12913 (13K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Hung Dang.jpg’
+
+     0K .......... ..                                         100%  524M=0s
+
+2026-05-20 21:29:58 (524 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/speaker/Hung Dang.jpg’ saved [12913/12913]
+
+--2026-05-20 21:29:58--  https://www.iciit.org/template.docx
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 393311 (384K) [application/vnd.openxmlformats-officedocument.wordprocessingml.document]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/template.docx’
+
+     0K .......... .......... .......... .......... .......... 13%  757K 0s
+    50K .......... .......... .......... .......... .......... 26% 1000K 0s
+   100K .......... .......... .......... .......... .......... 39% 1.84M 0s
+   150K .......... .......... .......... .......... .......... 52%  720K 0s
+   200K .......... .......... .......... .......... .......... 65% 3.57M 0s
+   250K .......... .......... .......... .......... .......... 78% 1.30M 0s
+   300K .......... .......... .......... .......... .......... 91% 1.71M 0s
+   350K .......... .......... .......... ....                 100% 3.41M=0.3s
+
+2026-05-20 21:29:59 (1.24 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/template.docx’ saved [393311/393311]
+
+--2026-05-20 21:29:59--  https://www.iciit.org/images/doc.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2449 (2.4K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/doc.png’
+
+     0K ..                                                    100%  119M=0s
+
+2026-05-20 21:29:59 (119 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/doc.png’ saved [2449/2449]
+
+--2026-05-20 21:29:59--  https://www.iciit.org/LaTeX-Templates.zip
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12866639 (12M) [application/zip]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/LaTeX-Templates.zip’
+
+     0K .......... .......... .......... .......... ..........  0% 2.38M 5s
+    50K .......... .......... .......... .......... ..........  0% 2.61M 5s
+   100K .......... .......... .......... .......... ..........  1% 3.22M 5s
+   150K .......... .......... .......... .......... ..........  1% 2.64M 5s
+   200K .......... .......... .......... .......... ..........  1% 2.22M 5s
+   250K .......... .......... .......... .......... ..........  2% 3.64M 4s
+   300K .......... .......... .......... .......... ..........  2% 2.11M 5s
+   350K .......... .......... .......... .......... ..........  3% 4.11M 4s
+   400K .......... .......... .......... .......... ..........  3% 1.52M 5s
+   450K .......... .......... .......... .......... ..........  3% 3.71M 5s
+   500K .......... .......... .......... .......... ..........  4% 2.03M 5s
+   550K .......... .......... .......... .......... ..........  4% 3.58M 5s
+   600K .......... .......... .......... .......... ..........  5% 1.71M 5s
+   650K .......... .......... .......... .......... ..........  5%  956K 5s
+   700K .......... .......... .......... .......... ..........  5% 1.03M 6s
+   750K .......... .......... .......... .......... ..........  6% 1.24M 6s
+   800K .......... .......... .......... .......... ..........  6% 4.10M 6s
+   850K .......... .......... .......... .......... ..........  7% 1.35M 6s
+   900K .......... .......... .......... .......... ..........  7% 3.57M 6s
+   950K .......... .......... .......... .......... ..........  7% 1.16M 6s
+  1000K .......... .......... .......... .......... ..........  8%  688K 6s
+  1050K .......... .......... .......... .......... ..........  8% 3.44M 6s
+  1100K .......... .......... .......... .......... ..........  9% 8.02M 6s
+  1150K .......... .......... .......... .......... ..........  9% 7.58M 6s
+  1200K .......... .......... .......... .......... ..........  9%  709K 6s
+  1250K .......... .......... .......... .......... .......... 10% 5.15M 6s
+  1300K .......... .......... .......... .......... .......... 10% 4.45M 6s
+  1350K .......... .......... .......... .......... .......... 11%  593M 5s
+  1400K .......... .......... .......... .......... .......... 11%  883K 6s
+  1450K .......... .......... .......... .......... .......... 11%  202M 5s
+  1500K .......... .......... .......... .......... .......... 12%  234M 5s
+  1550K .......... .......... .......... .......... .......... 12% 1.11M 5s
+  1600K .......... .......... .......... .......... .......... 13% 6.27M 5s
+  1650K .......... .......... .......... .......... .......... 13% 6.54M 5s
+  1700K .......... .......... .......... .......... .......... 13% 1.74M 5s
+  1750K .......... .......... .......... .......... .......... 14% 1.19M 5s
+  1800K .......... .......... .......... .......... .......... 14% 15.8M 5s
+  1850K .......... .......... .......... .......... .......... 15% 5.29M 5s
+  1900K .......... .......... .......... .......... .......... 15% 2.40M 5s
+  1950K .......... .......... .......... .......... .......... 15% 3.24M 5s
+  2000K .......... .......... .......... .......... .......... 16% 6.21M 5s
+  2050K .......... .......... .......... .......... .......... 16% 8.01M 5s
+  2100K .......... .......... .......... .......... .......... 17% 4.62M 5s
+  2150K .......... .......... .......... .......... .......... 17% 3.13M 5s
+  2200K .......... .......... .......... .......... .......... 17% 9.25M 4s
+  2250K .......... .......... .......... .......... .......... 18% 2.24M 4s
+  2300K .......... .......... .......... .......... .......... 18% 5.98M 4s
+  2350K .......... .......... .......... .......... .......... 19% 3.18M 4s
+  2400K .......... .......... .......... .......... .......... 19% 1.99M 4s
+  2450K .......... .......... .......... .......... .......... 19% 8.19M 4s
+  2500K .......... .......... .......... .......... .......... 20%  902K 4s
+  2550K .......... .......... .......... .......... .......... 20%  389M 4s
+  2600K .......... .......... .......... .......... .......... 21% 3.46M 4s
+  2650K .......... .......... .......... .......... .......... 21% 7.45M 4s
+  2700K .......... .......... .......... .......... .......... 21% 8.37M 4s
+  2750K .......... .......... .......... .......... .......... 22% 1.19M 4s
+  2800K .......... .......... .......... .......... .......... 22% 2.51M 4s
+  2850K .......... .......... .......... .......... .......... 23%  332M 4s
+  2900K .......... .......... .......... .......... .......... 23%  930K 4s
+  2950K .......... .......... .......... .......... .......... 23% 3.13M 4s
+  3000K .......... .......... .......... .......... .......... 24% 8.69M 4s
+  3050K .......... .......... .......... .......... .......... 24% 4.98M 4s
+  3100K .......... .......... .......... .......... .......... 25% 4.59M 4s
+  3150K .......... .......... .......... .......... .......... 25%  786K 4s
+  3200K .......... .......... .......... .......... .......... 25%  292M 4s
+  3250K .......... .......... .......... .......... .......... 26% 8.40M 4s
+  3300K .......... .......... .......... .......... .......... 26% 3.42M 4s
+  3350K .......... .......... .......... .......... .......... 27% 5.36M 4s
+  3400K .......... .......... .......... .......... .......... 27% 5.56M 4s
+  3450K .......... .......... .......... .......... .......... 27%  780K 4s
+  3500K .......... .......... .......... .......... .......... 28% 3.49M 4s
+  3550K .......... .......... .......... .......... .......... 28% 2.40M 4s
+  3600K .......... .......... .......... .......... .......... 29%  409M 4s
+  3650K .......... .......... .......... .......... .......... 29% 3.25M 4s
+  3700K .......... .......... .......... .......... .......... 29% 1.20M 4s
+  3750K .......... .......... .......... .......... .......... 30%  178M 4s
+  3800K .......... .......... .......... .......... .......... 30%  519M 3s
+  3850K .......... .......... .......... .......... .......... 31% 2.88M 3s
+  3900K .......... .......... .......... .......... .......... 31% 3.11M 3s
+  3950K .......... .......... .......... .......... .......... 31% 4.51M 3s
+  4000K .......... .......... .......... .......... .......... 32% 2.71M 3s
+  4050K .......... .......... .......... .......... .......... 32% 7.24M 3s
+  4100K .......... .......... .......... .......... .......... 33% 2.18M 3s
+  4150K .......... .......... .......... .......... .......... 33%  212M 3s
+  4200K .......... .......... .......... .......... .......... 33%  275M 3s
+  4250K .......... .......... .......... .......... .......... 34% 1.55M 3s
+  4300K .......... .......... .......... .......... .......... 34%  243M 3s
+  4350K .......... .......... .......... .......... .......... 35% 1.53M 3s
+  4400K .......... .......... .......... .......... .......... 35% 9.49M 3s
+  4450K .......... .......... .......... .......... .......... 35% 2.38M 3s
+  4500K .......... .......... .......... .......... .......... 36%  610M 3s
+  4550K .......... .......... .......... .......... .......... 36% 5.38M 3s
+  4600K .......... .......... .......... .......... .......... 37%  494M 3s
+  4650K .......... .......... .......... .......... .......... 37% 1.39M 3s
+  4700K .......... .......... .......... .......... .......... 37% 4.05M 3s
+  4750K .......... .......... .......... .......... .......... 38% 3.53M 3s
+  4800K .......... .......... .......... .......... .......... 38% 8.13M 3s
+  4850K .......... .......... .......... .......... .......... 38% 3.53M 3s
+  4900K .......... .......... .......... .......... .......... 39% 2.79M 3s
+  4950K .......... .......... .......... .......... .......... 39% 8.08M 3s
+  5000K .......... .......... .......... .......... .......... 40% 1.49M 3s
+  5050K .......... .......... .......... .......... .......... 40% 1.99M 3s
+  5100K .......... .......... .......... .......... .......... 40% 5.36M 3s
+  5150K .......... .......... .......... .......... .......... 41% 3.92M 3s
+  5200K .......... .......... .......... .......... .......... 41% 6.30M 3s
+  5250K .......... .......... .......... .......... .......... 42% 2.37M 3s
+  5300K .......... .......... .......... .......... .......... 42%  326M 3s
+  5350K .......... .......... .......... .......... .......... 42% 4.37M 3s
+  5400K .......... .......... .......... .......... .......... 43%  369M 3s
+  5450K .......... .......... .......... .......... .......... 43% 1.71M 3s
+  5500K .......... .......... .......... .......... .......... 44% 1.64M 3s
+  5550K .......... .......... .......... .......... .......... 44% 1.62M 3s
+  5600K .......... .......... .......... .......... .......... 44%  279K 3s
+  5650K .......... .......... .......... .......... .......... 45% 8.68M 3s
+  5700K .......... .......... .......... .......... .......... 45%  351M 3s
+  5750K .......... .......... .......... .......... .......... 46%  340M 3s
+  5800K .......... .......... .......... .......... .......... 46%  330M 3s
+  5850K .......... .......... .......... .......... .......... 46%  355M 3s
+  5900K .......... .......... .......... .......... .......... 47%  338M 2s
+  5950K .......... .......... .......... .......... .......... 47% 4.33M 2s
+  6000K .......... .......... .......... .......... .......... 48% 2.68M 2s
+  6050K .......... .......... .......... .......... .......... 48%  130M 2s
+  6100K .......... .......... .......... .......... .......... 48%  931K 2s
+  6150K .......... .......... .......... .......... .......... 49%  310M 2s
+  6200K .......... .......... .......... .......... .......... 49% 4.04M 2s
+  6250K .......... .......... .......... .......... .......... 50%  339M 2s
+  6300K .......... .......... .......... .......... .......... 50% 4.94M 2s
+  6350K .......... .......... .......... .......... .......... 50% 1.45M 2s
+  6400K .......... .......... .......... .......... .......... 51% 3.79M 2s
+  6450K .......... .......... .......... .......... .......... 51%  139M 2s
+  6500K .......... .......... .......... .......... .......... 52% 4.69M 2s
+  6550K .......... .......... .......... .......... .......... 52% 1.81M 2s
+  6600K .......... .......... .......... .......... .......... 52% 5.99M 2s
+  6650K .......... .......... .......... .......... .......... 53% 4.74M 2s
+  6700K .......... .......... .......... .......... .......... 53% 11.8M 2s
+  6750K .......... .......... .......... .......... .......... 54%  934K 2s
+  6800K .......... .......... .......... .......... .......... 54%  324M 2s
+  6850K .......... .......... .......... .......... .......... 54% 8.74M 2s
+  6900K .......... .......... .......... .......... .......... 55% 4.32M 2s
+  6950K .......... .......... .......... .......... .......... 55%  388M 2s
+  7000K .......... .......... .......... .......... .......... 56%  965K 2s
+  7050K .......... .......... .......... .......... .......... 56% 1.22M 2s
+  7100K .......... .......... .......... .......... .......... 56% 15.6M 2s
+  7150K .......... .......... .......... .......... .......... 57%  101M 2s
+  7200K .......... .......... .......... .......... .......... 57% 4.10M 2s
+  7250K .......... .......... .......... .......... .......... 58% 3.54M 2s
+  7300K .......... .......... .......... .......... .......... 58% 2.05M 2s
+  7350K .......... .......... .......... .......... .......... 58%  335M 2s
+  7400K .......... .......... .......... .......... .......... 59% 3.56M 2s
+  7450K .......... .......... .......... .......... .......... 59% 3.10M 2s
+  7500K .......... .......... .......... .......... .......... 60% 28.4M 2s
+  7550K .......... .......... .......... .......... .......... 60% 2.26M 2s
+  7600K .......... .......... .......... .......... .......... 60% 4.13M 2s
+  7650K .......... .......... .......... .......... .......... 61% 6.95M 2s
+  7700K .......... .......... .......... .......... .......... 61% 4.26M 2s
+  7750K .......... .......... .......... .......... .......... 62% 3.55M 2s
+  7800K .......... .......... .......... .......... .......... 62% 6.55M 2s
+  7850K .......... .......... .......... .......... .......... 62% 4.76M 2s
+  7900K .......... .......... .......... .......... .......... 63% 1.91M 2s
+  7950K .......... .......... .......... .......... .......... 63% 5.57M 2s
+  8000K .......... .......... .......... .......... .......... 64% 2.70M 2s
+  8050K .......... .......... .......... .......... .......... 64% 3.95M 2s
+  8100K .......... .......... .......... .......... .......... 64% 3.48M 2s
+  8150K .......... .......... .......... .......... .......... 65% 3.75M 2s
+  8200K .......... .......... .......... .......... .......... 65%  436M 1s
+  8250K .......... .......... .......... .......... .......... 66% 1.86M 1s
+  8300K .......... .......... .......... .......... .......... 66% 5.31M 1s
+  8350K .......... .......... .......... .......... .......... 66%  265M 1s
+  8400K .......... .......... .......... .......... .......... 67% 1.86M 1s
+  8450K .......... .......... .......... .......... .......... 67%  181M 1s
+  8500K .......... .......... .......... .......... .......... 68% 1.42M 1s
+  8550K .......... .......... .......... .......... .......... 68% 8.42M 1s
+  8600K .......... .......... .......... .......... .......... 68% 14.2M 1s
+  8650K .......... .......... .......... .......... .......... 69% 5.46M 1s
+  8700K .......... .......... .......... .......... .......... 69% 9.07M 1s
+  8750K .......... .......... .......... .......... .......... 70% 1.30M 1s
+  8800K .......... .......... .......... .......... .......... 70% 23.1M 1s
+  8850K .......... .......... .......... .......... .......... 70%  174M 1s
+  8900K .......... .......... .......... .......... .......... 71% 2.11M 1s
+  8950K .......... .......... .......... .......... .......... 71%  200M 1s
+  9000K .......... .......... .......... .......... .......... 72% 2.44M 1s
+  9050K .......... .......... .......... .......... .......... 72% 3.16M 1s
+  9100K .......... .......... .......... .......... .......... 72% 2.48M 1s
+  9150K .......... .......... .......... .......... .......... 73% 3.98M 1s
+  9200K .......... .......... .......... .......... .......... 73%  255M 1s
+  9250K .......... .......... .......... .......... .......... 74%  555K 1s
+  9300K .......... .......... .......... .......... .......... 74%  172M 1s
+  9350K .......... .......... .......... .......... .......... 74% 1.97M 1s
+  9400K .......... .......... .......... .......... .......... 75% 1.34M 1s
+  9450K .......... .......... .......... .......... .......... 75%  188M 1s
+  9500K .......... .......... .......... .......... .......... 76% 8.63M 1s
+  9550K .......... .......... .......... .......... .......... 76% 6.51M 1s
+  9600K .......... .......... .......... .......... .......... 76% 3.62M 1s
+  9650K .......... .......... .......... .......... .......... 77%  819K 1s
+  9700K .......... .......... .......... .......... .......... 77% 7.76M 1s
+  9750K .......... .......... .......... .......... .......... 77% 7.29M 1s
+  9800K .......... .......... .......... .......... .......... 78%  159M 1s
+  9850K .......... .......... .......... .......... .......... 78% 2.93M 1s
+  9900K .......... .......... .......... .......... .......... 79%  179M 1s
+  9950K .......... .......... .......... .......... .......... 79%  801K 1s
+ 10000K .......... .......... .......... .......... .......... 79% 4.72M 1s
+ 10050K .......... .......... .......... .......... .......... 80% 7.59M 1s
+ 10100K .......... .......... .......... .......... .......... 80% 2.32M 1s
+ 10150K .......... .......... .......... .......... .......... 81%  133M 1s
+ 10200K .......... .......... .......... .......... .......... 81% 5.03M 1s
+ 10250K .......... .......... .......... .......... .......... 81% 2.11M 1s
+ 10300K .......... .......... .......... .......... .......... 82%  191M 1s
+ 10350K .......... .......... .......... .......... .......... 82% 2.19M 1s
+ 10400K .......... .......... .......... .......... .......... 83% 10.5M 1s
+ 10450K .......... .......... .......... .......... .......... 83% 12.0M 1s
+ 10500K .......... .......... .......... .......... .......... 83% 2.40M 1s
+ 10550K .......... .......... .......... .......... .......... 84% 5.67M 1s
+ 10600K .......... .......... .......... .......... .......... 84%  343M 1s
+ 10650K .......... .......... .......... .......... .......... 85% 2.87M 1s
+ 10700K .......... .......... .......... .......... .......... 85% 2.51M 1s
+ 10750K .......... .......... .......... .......... .......... 85% 6.83M 1s
+ 10800K .......... .......... .......... .......... .......... 86% 2.59M 1s
+ 10850K .......... .......... .......... .......... .......... 86% 9.62M 1s
+ 10900K .......... .......... .......... .......... .......... 87% 8.71M 1s
+ 10950K .......... .......... .......... .......... .......... 87%  648K 1s
+ 11000K .......... .......... .......... .......... .......... 87%  257M 1s
+ 11050K .......... .......... .......... .......... .......... 88% 4.18M 0s
+ 11100K .......... .......... .......... .......... .......... 88% 2.99M 0s
+ 11150K .......... .......... .......... .......... .......... 89% 4.04M 0s
+ 11200K .......... .......... .......... .......... .......... 89% 1.58M 0s
+ 11250K .......... .......... .......... .......... .......... 89% 14.0M 0s
+ 11300K .......... .......... .......... .......... .......... 90% 3.08M 0s
+ 11350K .......... .......... .......... .......... .......... 90% 54.7M 0s
+ 11400K .......... .......... .......... .......... .......... 91%  797K 0s
+ 11450K .......... .......... .......... .......... .......... 91% 1.42M 0s
+ 11500K .......... .......... .......... .......... .......... 91% 1.46M 0s
+ 11550K .......... .......... .......... .......... .......... 92% 1.48M 0s
+ 11600K .......... .......... .......... .......... .......... 92% 1.82M 0s
+ 11650K .......... .......... .......... .......... .......... 93% 2.23M 0s
+ 11700K .......... .......... .......... .......... .......... 93%  269M 0s
+ 11750K .......... .......... .......... .......... .......... 93% 3.95M 0s
+ 11800K .......... .......... .......... .......... .......... 94%  894K 0s
+ 11850K .......... .......... .......... .......... .......... 94%  913K 0s
+ 11900K .......... .......... .......... .......... .......... 95%  206M 0s
+ 11950K .......... .......... .......... .......... .......... 95% 1.02M 0s
+ 12000K .......... .......... .......... .......... .......... 95% 3.20M 0s
+ 12050K .......... .......... .......... .......... .......... 96%  285M 0s
+ 12100K .......... .......... .......... .......... .......... 96% 2.59M 0s
+ 12150K .......... .......... .......... .......... .......... 97% 1.52M 0s
+ 12200K .......... .......... .......... .......... .......... 97% 8.53M 0s
+ 12250K .......... .......... .......... .......... .......... 97% 6.93M 0s
+ 12300K .......... .......... .......... .......... .......... 98% 6.46M 0s
+ 12350K .......... .......... .......... .......... .......... 98%  285M 0s
+ 12400K .......... .......... .......... .......... .......... 99% 1.15M 0s
+ 12450K .......... .......... .......... .......... .......... 99% 5.46M 0s
+ 12500K .......... .......... .......... .......... .......... 99% 42.2M 0s
+ 12550K .......... .....                                      100% 16.3M=4.3s
+
+2026-05-20 21:30:03 (2.83 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/LaTeX-Templates.zip’ saved [12866639/12866639]
+
+--2026-05-20 21:30:03--  https://www.iciit.org/Abstract_Template.docx
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24359 (24K) [application/vnd.openxmlformats-officedocument.wordprocessingml.document]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/Abstract_Template.docx’
+
+     0K .......... .......... ...                             100%  260M=0s
+
+2026-05-20 21:30:03 (260 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/Abstract_Template.docx’ saved [24359/24359]
+
+--2026-05-20 21:30:03--  https://www.iciit.org/Poster_template.pdf
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2686306 (2.6M) [application/pdf]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/Poster_template.pdf’
+
+     0K .......... .......... .......... .......... ..........  1% 12.3M 0s
+    50K .......... .......... .......... .......... ..........  3% 1.15M 1s
+   100K .......... .......... .......... .......... ..........  5%  104M 1s
+   150K .......... .......... .......... .......... ..........  7%  155M 1s
+   200K .......... .......... .......... .......... ..........  9% 3.35M 1s
+   250K .......... .......... .......... .......... .......... 11%  949K 1s
+   300K .......... .......... .......... .......... .......... 13%  827K 1s
+   350K .......... .......... .......... .......... .......... 15% 6.90M 1s
+   400K .......... .......... .......... .......... .......... 17% 2.70M 1s
+   450K .......... .......... .......... .......... .......... 19%  561M 1s
+   500K .......... .......... .......... .......... .......... 20% 7.29M 1s
+   550K .......... .......... .......... .......... .......... 22% 4.85M 1s
+   600K .......... .......... .......... .......... .......... 24%  962K 1s
+   650K .......... .......... .......... .......... .......... 26% 2.00M 1s
+   700K .......... .......... .......... .......... .......... 28% 2.22M 1s
+   750K .......... .......... .......... .......... .......... 30% 1.09M 1s
+   800K .......... .......... .......... .......... .......... 32%  333M 1s
+   850K .......... .......... .......... .......... .......... 34% 5.44M 1s
+   900K .......... .......... .......... .......... .......... 36%  395M 1s
+   950K .......... .......... .......... .......... .......... 38% 3.59M 1s
+  1000K .......... .......... .......... .......... .......... 40% 4.35M 1s
+  1050K .......... .......... .......... .......... .......... 41%  200K 1s
+  1100K .......... .......... .......... .......... .......... 43%  217M 1s
+  1150K .......... .......... .......... .......... .......... 45%  376M 1s
+  1200K .......... .......... .......... .......... .......... 47%  619M 1s
+  1250K .......... .......... .......... .......... .......... 49%  640M 1s
+  1300K .......... .......... .......... .......... .......... 51%  426M 1s
+  1350K .......... .......... .......... .......... .......... 53%  488M 1s
+  1400K .......... .......... .......... .......... .......... 55% 1.21M 1s
+  1450K .......... .......... .......... .......... .......... 57% 1.11M 1s
+  1500K .......... .......... .......... .......... .......... 59% 3.91M 1s
+  1550K .......... .......... .......... .......... .......... 60% 1.29M 0s
+  1600K .......... .......... .......... .......... .......... 62% 4.08M 0s
+  1650K .......... .......... .......... .......... .......... 64% 8.92M 0s
+  1700K .......... .......... .......... .......... .......... 66% 1.85M 0s
+  1750K .......... .......... .......... .......... .......... 68%  763K 0s
+  1800K .......... .......... .......... .......... .......... 70% 3.39M 0s
+  1850K .......... .......... .......... .......... .......... 72%  465M 0s
+  1900K .......... .......... .......... .......... .......... 74% 14.0M 0s
+  1950K .......... .......... .......... .......... .......... 76%  517K 0s
+  2000K .......... .......... .......... .......... .......... 78%  436M 0s
+  2050K .......... .......... .......... .......... .......... 80%  591M 0s
+  2100K .......... .......... .......... .......... .......... 81% 1.72M 0s
+  2150K .......... .......... .......... .......... .......... 83%  469K 0s
+  2200K .......... .......... .......... .......... .......... 85%  377M 0s
+  2250K .......... .......... .......... .......... .......... 87%  526M 0s
+  2300K .......... .......... .......... .......... .......... 89%  512M 0s
+  2350K .......... .......... .......... .......... .......... 91%  394M 0s
+  2400K .......... .......... .......... .......... .......... 93% 10.4M 0s
+  2450K .......... .......... .......... .......... .......... 95% 5.12M 0s
+  2500K .......... .......... .......... .......... .......... 97% 3.79M 0s
+  2550K .......... .......... .......... .......... .......... 99%  965K 0s
+  2600K .......... .......... ...                             100%  394M=1.2s
+
+2026-05-20 21:30:05 (2.10 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/Poster_template.pdf’ saved [2686306/2686306]
+
+--2026-05-20 21:30:05--  https://www.iciit.org/%E7%BC%83%E6%88%A0%E7%8F%AF%E9%8D%92%E6%9C%B5%E7%B6%94/2018/Feb.%2026-28%20Hanoi%20Vietnam/ICBCT%202018/img/groovepaper.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:30:05 ERROR 404: Not Found.
+
+--2026-05-20 21:30:05--  https://www.iciit.org/images/ICIIT2024/ICIIT2024ACM.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 179233 (175K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024ACM.jpg’
+
+     0K .......... .......... .......... .......... .......... 28%  236K 1s
+    50K .......... .......... .......... .......... .......... 57%  427M 0s
+   100K .......... .......... .......... .......... .......... 85%  394M 0s
+   150K .......... .......... .....                           100%  571M=0.2s
+
+2026-05-20 21:30:05 (826 KB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024ACM.jpg’ saved [179233/179233]
+
+--2026-05-20 21:30:05--  https://www.iciit.org/images%5CICIIT2024%5CICIIT2024GP.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:30:05 ERROR 404: Not Found.
+
+--2026-05-20 21:30:05--  https://www.iciit.org/images/ICIIT2023/ICIIT2023ACM.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 152313 (149K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2023/ICIIT2023ACM.jpg’
+
+     0K .......... .......... .......... .......... .......... 33% 1.96M 0s
+    50K .......... .......... .......... .......... .......... 67%  614K 0s
+   100K .......... .......... .......... .......... ........  100% 2.88M=0.1s
+
+2026-05-20 21:30:06 (1.18 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2023/ICIIT2023ACM.jpg’ saved [152313/152313]
+
+--2026-05-20 21:30:06--  https://www.iciit.org/images/ICIIT2023/ICIIT2023GP.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 303684 (297K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2023/ICIIT2023GP.jpg’
+
+     0K .......... .......... .......... .......... .......... 16% 2.20M 0s
+    50K .......... .......... .......... .......... .......... 33% 1.48M 0s
+   100K .......... .......... .......... .......... .......... 50%  877K 0s
+   150K .......... .......... .......... .......... .......... 67% 1.26M 0s
+   200K .......... .......... .......... .......... .......... 84% 3.29M 0s
+   250K .......... .......... .......... .......... ......    100% 1.78M=0.2s
+
+2026-05-20 21:30:06 (1.51 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2023/ICIIT2023GP.jpg’ saved [303684/303684]
+
+--2026-05-20 21:30:06--  https://www.iciit.org/images/ICIIT2023/ICIIT2023GP1.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 313442 (306K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2023/ICIIT2023GP1.jpg’
+
+     0K .......... .......... .......... .......... .......... 16% 3.94M 0s
+    50K .......... .......... .......... .......... .......... 32%  683K 0s
+   100K .......... .......... .......... .......... .......... 49% 3.30M 0s
+   150K .......... .......... .......... .......... .......... 65% 2.57M 0s
+   200K .......... .......... .......... .......... .......... 81% 1.72M 0s
+   250K .......... .......... .......... .......... .......... 98%  939K 0s
+   300K ......                                                100% 61.2M=0.2s
+
+2026-05-20 21:30:06 (1.49 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2023/ICIIT2023GP1.jpg’ saved [313442/313442]
+
+--2026-05-20 21:30:06--  https://www.iciit.org/images/ICIIT2022/ICIIT2022ACM.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 269576 (263K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/ICIIT2022ACM.jpg’
+
+     0K .......... .......... .......... .......... .......... 18% 1.17M 0s
+    50K .......... .......... .......... .......... .......... 37% 17.2M 0s
+   100K .......... .......... .......... .......... .......... 56% 1.00M 0s
+   150K .......... .......... .......... .......... .......... 75% 6.42M 0s
+   200K .......... .......... .......... .......... .......... 94% 4.44M 0s
+   250K .......... ...                                        100% 1.37M=0.1s
+
+2026-05-20 21:30:06 (2.12 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/ICIIT2022ACM.jpg’ saved [269576/269576]
+
+--2026-05-20 21:30:06--  https://www.iciit.org/images/ICIIT2022/ICIIT2022EI.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 119092 (116K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/ICIIT2022EI.png’
+
+     0K .......... .......... .......... .......... .......... 42% 8.16M 0s
+    50K .......... .......... .......... .......... .......... 85% 5.67M 0s
+   100K .......... ......                                     100%  381K=0.06s
+
+2026-05-20 21:30:07 (1.98 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/ICIIT2022EI.png’ saved [119092/119092]
+
+--2026-05-20 21:30:07--  https://www.iciit.org/images/ICIIT2022/ICIIT2022SCOPUS.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 104089 (102K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/ICIIT2022SCOPUS.png’
+
+     0K .......... .......... .......... .......... .......... 49%  445M 0s
+    50K .......... .......... .......... .......... .......... 98% 5.94M 0s
+   100K .                                                     100% 3.07T=0.008s
+
+2026-05-20 21:30:07 (11.9 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/ICIIT2022SCOPUS.png’ saved [104089/104089]
+
+--2026-05-20 21:30:07--  https://www.iciit.org/images/ICIIT2022/ICIIT2022GP3.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 178935 (175K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/ICIIT2022GP3.jpg’
+
+     0K .......... .......... .......... .......... .......... 28% 2.42M 0s
+    50K .......... .......... .......... .......... .......... 57%  211M 0s
+   100K .......... .......... .......... .......... .......... 85%  867K 0s
+   150K .......... .......... ....                            100% 3.87M=0.08s
+
+2026-05-20 21:30:07 (2.02 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/ICIIT2022GP3.jpg’ saved [178935/178935]
+
+--2026-05-20 21:30:07--  https://www.iciit.org/images/ICIIT2022/ICIIT2022GP4.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 187881 (183K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/ICIIT2022GP4.jpg’
+
+     0K .......... .......... .......... .......... .......... 27% 3.86M 0s
+    50K .......... .......... .......... .......... .......... 54% 20.2M 0s
+   100K .......... .......... .......... .......... .......... 81% 1.07M 0s
+   150K .......... .......... .......... ...                  100%  482M=0.06s
+
+2026-05-20 21:30:07 (2.94 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/ICIIT2022GP4.jpg’ saved [187881/187881]
+
+--2026-05-20 21:30:07--  https://www.iciit.org/images/ICIIT2022/ICIIT2022gp1.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 135134 (132K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/ICIIT2022gp1.jpg’
+
+     0K .......... .......... .......... .......... .......... 37%  442M 0s
+    50K .......... .......... .......... .......... .......... 75% 2.54M 0s
+   100K .......... .......... .......... .                    100%  638K=0.07s
+
+2026-05-20 21:30:07 (1.86 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/ICIIT2022gp1.jpg’ saved [135134/135134]
+
+--2026-05-20 21:30:07--  https://www.iciit.org/images/ICIIT2022/ICIIT2022gp2.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 138858 (136K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/ICIIT2022gp2.jpg’
+
+     0K .......... .......... .......... .......... .......... 36%  372M 0s
+    50K .......... .......... .......... .......... .......... 73% 10.1M 0s
+   100K .......... .......... .......... .....                100%  666K=0.06s
+
+2026-05-20 21:30:07 (2.27 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/ICIIT2022gp2.jpg’ saved [138858/138858]
+
+--2026-05-20 21:30:07--  https://www.iciit.org/images/ICIIT2021/ICIIT2021ACM.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 206550 (202K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2021/ICIIT2021ACM.jpg’
+
+     0K .......... .......... .......... .......... .......... 24% 3.13M 0s
+    50K .......... .......... .......... .......... .......... 49% 42.6M 0s
+   100K .......... .......... .......... .......... .......... 74%  908K 0s
+   150K .......... .......... .......... .......... .......... 99%  271M 0s
+   200K .                                                     100% 3.18T=0.07s
+
+2026-05-20 21:30:08 (2.74 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2021/ICIIT2021ACM.jpg’ saved [206550/206550]
+
+--2026-05-20 21:30:08--  https://www.iciit.org/images/ICIIT2021/ICIIT2021EI.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 90733 (89K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2021/ICIIT2021EI.png’
+
+     0K .......... .......... .......... .......... .......... 56% 6.05M 0s
+    50K .......... .......... .......... ........             100% 8.27M=0.01s
+
+2026-05-20 21:30:08 (6.85 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2021/ICIIT2021EI.png’ saved [90733/90733]
+
+--2026-05-20 21:30:08--  https://www.iciit.org/images/ICIIT2021/ICIIT2021SCOPUS.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 87698 (86K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2021/ICIIT2021SCOPUS.png’
+
+     0K .......... .......... .......... .......... .......... 58%  292M 0s
+    50K .......... .......... .......... .....                100%  368M=0s
+
+2026-05-20 21:30:08 (320 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2021/ICIIT2021SCOPUS.png’ saved [87698/87698]
+
+--2026-05-20 21:30:08--  https://www.iciit.org/images/ICIIT2021/ICIIT2021-GP2.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 659390 (644K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2021/ICIIT2021-GP2.png’
+
+     0K .......... .......... .......... .......... ..........  7% 4.37M 0s
+    50K .......... .......... .......... .......... .......... 15%  219M 0s
+   100K .......... .......... .......... .......... .......... 23%  647K 0s
+   150K .......... .......... .......... .......... .......... 31% 5.45M 0s
+   200K .......... .......... .......... .......... .......... 38% 9.08M 0s
+   250K .......... .......... .......... .......... .......... 46%  898K 0s
+   300K .......... .......... .......... .......... .......... 54%  117M 0s
+   350K .......... .......... .......... .......... .......... 62%  580K 0s
+   400K .......... .......... .......... .......... .......... 69% 31.4M 0s
+   450K .......... .......... .......... .......... .......... 77%  529K 0s
+   500K .......... .......... .......... .......... .......... 85% 8.82M 0s
+   550K .......... .......... .......... .......... .......... 93%  312M 0s
+   600K .......... .......... .......... .......... ...       100%  959K=0.4s
+
+2026-05-20 21:30:08 (1.60 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2021/ICIIT2021-GP2.png’ saved [659390/659390]
+
+--2026-05-20 21:30:08--  https://www.iciit.org/images/ICIIT2021/ICIIT2021-GP1.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 819127 (800K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2021/ICIIT2021-GP1.png’
+
+     0K .......... .......... .......... .......... ..........  6% 3.40M 0s
+    50K .......... .......... .......... .......... .......... 12%  311M 0s
+   100K .......... .......... .......... .......... .......... 18%  730K 0s
+   150K .......... .......... .......... .......... .......... 25% 2.51M 0s
+   200K .......... .......... .......... .......... .......... 31% 12.3M 0s
+   250K .......... .......... .......... .......... .......... 37%  254K 1s
+   300K .......... .......... .......... .......... .......... 43% 4.03M 0s
+   350K .......... .......... .......... .......... .......... 50%  400M 0s
+   400K .......... .......... .......... .......... .......... 56% 10.7M 0s
+   450K .......... .......... .......... .......... .......... 62%  870K 0s
+   500K .......... .......... .......... .......... .......... 68% 32.7M 0s
+   550K .......... .......... .......... .......... .......... 75%  854K 0s
+   600K .......... .......... .......... .......... .......... 81%  273M 0s
+   650K .......... .......... .......... .......... .......... 87%  674K 0s
+   700K .......... .......... .......... .......... .......... 93% 12.0M 0s
+   750K .......... .......... .......... .......... ......... 100% 1.13M=0.6s
+
+2026-05-20 21:30:09 (1.40 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2021/ICIIT2021-GP1.png’ saved [819127/819127]
+
+--2026-05-20 21:30:09--  https://www.iciit.org/images/ICIIT2020/ICCIT2020ACM.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 95796 (94K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/ICCIT2020ACM.jpg’
+
+     0K .......... .......... .......... .......... .......... 53%  334M 0s
+    50K .......... .......... .......... .......... ...       100% 1.10M=0.04s
+
+2026-05-20 21:30:09 (2.36 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/ICCIT2020ACM.jpg’ saved [95796/95796]
+
+--2026-05-20 21:30:09--  https://www.iciit.org/images/ICIIT2020/ICIIT2020EI.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 40778 (40K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/ICIIT2020EI.png’
+
+     0K .......... .......... .......... .........            100%  571M=0s
+
+2026-05-20 21:30:09 (571 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/ICIIT2020EI.png’ saved [40778/40778]
+
+--2026-05-20 21:30:09--  https://www.iciit.org/images/ICIIT2020/ICIIT2020Scopus.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23723 (23K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/ICIIT2020Scopus.png’
+
+     0K .......... .......... ...                             100%  488M=0s
+
+2026-05-20 21:30:09 (488 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/ICIIT2020Scopus.png’ saved [23723/23723]
+
+--2026-05-20 21:30:09--  https://www.iciit.org/images/ICIIT2020/GP2020.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 257092 (251K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/GP2020.jpg’
+
+     0K .......... .......... .......... .......... .......... 19% 14.3M 0s
+    50K .......... .......... .......... .......... .......... 39%  994K 0s
+   100K .......... .......... .......... .......... .......... 59%  210M 0s
+   150K .......... .......... .......... .......... .......... 79%  958K 0s
+   200K .......... .......... .......... .......... .......... 99%  200M 0s
+   250K .                                                     100% 1.99T=0.1s
+
+2026-05-20 21:30:10 (2.30 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/GP2020.jpg’ saved [257092/257092]
+
+--2026-05-20 21:30:10--  https://www.iciit.org/images/ICIIT2019/ICIIT2019cover.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 170555 (167K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/ICIIT2019cover.jpg’
+
+     0K .......... .......... .......... .......... .......... 30%  193M 0s
+    50K .......... .......... .......... .......... .......... 60%  733K 0s
+   100K .......... .......... .......... .......... .......... 90%  342M 0s
+   150K .......... ......                                     100% 3.83M=0.07s
+
+2026-05-20 21:30:10 (2.23 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/ICIIT2019cover.jpg’ saved [170555/170555]
+
+--2026-05-20 21:30:10--  https://www.iciit.org/images/ICIIT2019/ICIIT2019EI.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 27376 (27K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/ICIIT2019EI.png’
+
+     0K .......... .......... ......                          100%  280M=0s
+
+2026-05-20 21:30:10 (280 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/ICIIT2019EI.png’ saved [27376/27376]
+
+--2026-05-20 21:30:10--  https://www.iciit.org/images/ICIIT2019/iciit2019scopus.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 30371 (30K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/iciit2019scopus.png’
+
+     0K .......... .......... .........                       100% 47.8M=0.001s
+
+2026-05-20 21:30:10 (47.8 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/iciit2019scopus.png’ saved [30371/30371]
+
+--2026-05-20 21:30:10--  https://www.iciit.org/images/ICIIT2019/ICIIT2019gp.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 140425 (137K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/ICIIT2019gp.jpg’
+
+     0K .......... .......... .......... .......... .......... 36% 6.49M 0s
+    50K .......... .......... .......... .......... .......... 72%  794K 0s
+   100K .......... .......... .......... .......              100% 5.80M=0.08s
+
+2026-05-20 21:30:10 (1.75 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/ICIIT2019gp.jpg’ saved [140425/140425]
+
+--2026-05-20 21:30:10--  https://www.iciit.org/images/ICIIT2018/ICIIT2018cover.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77004 (75K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/ICIIT2018cover.jpg’
+
+     0K .......... .......... .......... .......... .......... 66% 11.7M 0s
+    50K .......... .......... .....                           100%  507M=0.004s
+
+2026-05-20 21:30:10 (17.3 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/ICIIT2018cover.jpg’ saved [77004/77004]
+
+--2026-05-20 21:30:10--  https://www.iciit.org/images/ICIIT2018/ICIIT2018EI.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 43570 (43K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/ICIIT2018EI.png’
+
+     0K .......... .......... .......... .......... ..        100% 27.9M=0.001s
+
+2026-05-20 21:30:10 (27.9 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/ICIIT2018EI.png’ saved [43570/43570]
+
+--2026-05-20 21:30:10--  https://www.iciit.org/images/ICIIT2018/ICIIT2018scopus.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 36887 (36K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/ICIIT2018scopus.png’
+
+     0K .......... .......... .......... ......               100%  136M=0s
+
+2026-05-20 21:30:10 (136 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/ICIIT2018scopus.png’ saved [36887/36887]
+
+--2026-05-20 21:30:10--  https://www.iciit.org/images/ICIIT2018/Group%20photo.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 267815 (262K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/Group photo.JPG’
+
+     0K .......... .......... .......... .......... .......... 19% 10.4M 0s
+    50K .......... .......... .......... .......... .......... 38% 1.09M 0s
+   100K .......... .......... .......... .......... .......... 57% 5.86M 0s
+   150K .......... .......... .......... .......... .......... 76%  979K 0s
+   200K .......... .......... .......... .......... .......... 95% 3.52M 0s
+   250K .......... .                                          100%  211M=0.1s
+
+2026-05-20 21:30:11 (2.08 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/Group photo.JPG’ saved [267815/267815]
+
+--2026-05-20 21:30:11--  https://www.iciit.org/images/ICIIT2018/Group%202.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 283843 (277K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/Group 2.JPG’
+
+     0K .......... .......... .......... .......... .......... 18%  320M 0s
+    50K .......... .......... .......... .......... .......... 36% 1.02M 0s
+   100K .......... .......... .......... .......... .......... 54%  360M 0s
+   150K .......... .......... .......... .......... .......... 72% 1.02M 0s
+   200K .......... .......... .......... .......... .......... 90% 9.49M 0s
+   250K .......... .......... .......                         100%  227M=0.1s
+
+2026-05-20 21:30:11 (2.67 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/Group 2.JPG’ saved [283843/283843]
+
+--2026-05-20 21:30:11--  https://www.iciit.org/images/ICIIT2025/cover.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 137325 (134K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/cover.jpg’
+
+     0K .......... .......... .......... .......... .......... 37%  219M 0s
+    50K .......... .......... .......... .......... .......... 74% 1005K 0s
+   100K .......... .......... .......... ....                 100%  203M=0.05s
+
+2026-05-20 21:30:11 (2.61 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/cover.jpg’ saved [137325/137325]
+
+--2026-05-20 21:30:11--  https://www.iciit.org/images/ICIIT2025/GP.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 337592 (330K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/GP.jpg’
+
+     0K .......... .......... .......... .......... .......... 15%  363M 0s
+    50K .......... .......... .......... .......... .......... 30%  885K 0s
+   100K .......... .......... .......... .......... .......... 45% 2.91M 0s
+   150K .......... .......... .......... .......... .......... 60% 1.53M 0s
+   200K .......... .......... .......... .......... .......... 75% 1.95M 0s
+   250K .......... .......... .......... .......... .......... 90% 2.31M 0s
+   300K .......... .......... .........                       100% 1.48M=0.2s
+
+2026-05-20 21:30:11 (1.88 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/GP.jpg’ saved [337592/337592]
+
+--2026-05-20 21:30:11--  https://www.iciit.org/images/ICIIT2025/OP.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 42164 (41K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/OP.jpg’
+
+     0K .......... .......... .......... .......... .         100%  176M=0s
+
+2026-05-20 21:30:11 (176 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/OP.jpg’ saved [42164/42164]
+
+--2026-05-20 21:30:11--  https://www.iciit.org/images/ICIIT2025/KN-1.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 46503 (45K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/KN-1.jpg’
+
+     0K .......... .......... .......... .......... .....     100%  332M=0s
+
+2026-05-20 21:30:11 (332 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/KN-1.jpg’ saved [46503/46503]
+
+--2026-05-20 21:30:12--  https://www.iciit.org/images/ICIIT2025/KN-2.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 40518 (40K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/KN-2.jpg’
+
+     0K .......... .......... .......... .........            100% 5.91M=0.007s
+
+2026-05-20 21:30:12 (5.91 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/KN-2.jpg’ saved [40518/40518]
+
+--2026-05-20 21:30:12--  https://www.iciit.org/images/ICIIT2025/KN-3.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 40798 (40K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/KN-3.jpg’
+
+     0K .......... .......... .......... .........            100%  331M=0s
+
+2026-05-20 21:30:12 (331 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/KN-3.jpg’ saved [40798/40798]
+
+--2026-05-20 21:30:12--  https://www.iciit.org/images/ICIIT2025/IS-1.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38471 (38K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/IS-1.jpg’
+
+     0K .......... .......... .......... .......              100% 6.63M=0.006s
+
+2026-05-20 21:30:12 (6.63 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/IS-1.jpg’ saved [38471/38471]
+
+--2026-05-20 21:30:12--  https://www.iciit.org/images/ICIIT2025/IS-2.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 26413 (26K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/IS-2.jpg’
+
+     0K .......... .......... .....                           100% 5.84M=0.004s
+
+2026-05-20 21:30:12 (5.84 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/IS-2.jpg’ saved [26413/26413]
+
+--2026-05-20 21:30:12--  https://www.iciit.org/images/ICIIT2025/S1-GP.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 31082 (30K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/S1-GP.jpg’
+
+     0K .......... .......... ..........                      100%  420M=0s
+
+2026-05-20 21:30:12 (420 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/S1-GP.jpg’ saved [31082/31082]
+
+--2026-05-20 21:30:12--  https://www.iciit.org/images/ICIIT2025/S2-GP.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 37853 (37K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/S2-GP.jpg’
+
+     0K .......... .......... .......... ......               100%  123M=0s
+
+2026-05-20 21:30:12 (123 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/S2-GP.jpg’ saved [37853/37853]
+
+--2026-05-20 21:30:12--  https://www.iciit.org/images/ICIIT2025/S3-GP.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 32083 (31K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/S3-GP.jpg’
+
+     0K .......... .......... .......... .                    100%  594M=0s
+
+2026-05-20 21:30:12 (594 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/S3-GP.jpg’ saved [32083/32083]
+
+--2026-05-20 21:30:12--  https://www.iciit.org/images/ICIIT2025/S4-GP.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 37590 (37K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/S4-GP.jpg’
+
+     0K .......... .......... .......... ......               100% 8.22M=0.004s
+
+2026-05-20 21:30:12 (8.22 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/S4-GP.jpg’ saved [37590/37590]
+
+--2026-05-20 21:30:12--  https://www.iciit.org/images/ICIIT2025/S5-GP.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38361 (37K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/S5-GP.jpg’
+
+     0K .......... .......... .......... .......              100%  244M=0s
+
+2026-05-20 21:30:12 (244 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2025/S5-GP.jpg’ saved [38361/38361]
+
+--2026-05-20 21:30:13--  https://www.iciit.org/images/ICIIT2024/ICIIT2024GP.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 426145 (416K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024GP.JPG’
+
+     0K .......... .......... .......... .......... .......... 12% 2.26M 0s
+    50K .......... .......... .......... .......... .......... 24% 1.45M 0s
+   100K .......... .......... .......... .......... .......... 36% 3.16M 0s
+   150K .......... .......... .......... .......... .......... 48% 1.45M 0s
+   200K .......... .......... .......... .......... .......... 60% 3.06M 0s
+   250K .......... .......... .......... .......... .......... 72% 28.4M 0s
+   300K .......... .......... .......... .......... .......... 84%  804K 0s
+   350K .......... .......... .......... .......... .......... 96% 5.48M 0s
+   400K .......... ......                                     100%  151M=0.2s
+
+2026-05-20 21:30:13 (2.10 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024GP.JPG’ saved [426145/426145]
+
+--2026-05-20 21:30:13--  https://www.iciit.org/images/ICIIT2024/ICIIT2024OP.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 59716 (58K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024OP.JPG’
+
+     0K .......... .......... .......... .......... .......... 85% 25.3M 0s
+    50K ........                                              100% 15.5T=0.002s
+
+2026-05-20 21:30:13 (29.5 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024OP.JPG’ saved [59716/59716]
+
+--2026-05-20 21:30:13--  https://www.iciit.org/images/ICIIT2024/ICIIT2024KN1.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21988 (21K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024KN1.JPG’
+
+     0K .......... .......... .                               100%  142M=0s
+
+2026-05-20 21:30:13 (142 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024KN1.JPG’ saved [21988/21988]
+
+--2026-05-20 21:30:13--  https://www.iciit.org/images/ICIIT2024/ICIIT2024KN2.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 67938 (66K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024KN2.JPG’
+
+     0K .......... .......... .......... .......... .......... 75% 8.11M 0s
+    50K .......... ......                                     100%  398M=0.006s
+
+2026-05-20 21:30:13 (10.7 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024KN2.JPG’ saved [67938/67938]
+
+--2026-05-20 21:30:13--  https://www.iciit.org/images/ICIIT2024/ICIIT2024IS1.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 54956 (54K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024IS1.JPG’
+
+     0K .......... .......... .......... .......... .......... 93%  450M 0s
+    50K ...                                                   100% 6.83T=0s
+
+2026-05-20 21:30:13 (483 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024IS1.JPG’ saved [54956/54956]
+
+--2026-05-20 21:30:13--  https://www.iciit.org/images/ICIIT2024/ICIIT2024IS2.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 55308 (54K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024IS2.JPG’
+
+     0K .......... .......... .......... .......... .......... 92% 12.8M 0s
+    50K ....                                                  100% 7.47T=0.004s
+
+2026-05-20 21:30:13 (13.8 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024IS2.JPG’ saved [55308/55308]
+
+--2026-05-20 21:30:13--  https://www.iciit.org/images/ICIIT2024/ICIIT2024IS3.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 58124 (57K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024IS3.JPG’
+
+     0K .......... .......... .......... .......... .......... 88%  336M 0s
+    50K ......                                                100% 12.6T=0s
+
+2026-05-20 21:30:13 (381 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024IS3.JPG’ saved [58124/58124]
+
+--2026-05-20 21:30:13--  https://www.iciit.org/images/ICIIT2024/ICIIT2024S1.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 65756 (64K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024S1.JPG’
+
+     0K .......... .......... .......... .......... .......... 77%  268M 0s
+    50K .......... ....                                       100%  313M=0s
+
+2026-05-20 21:30:14 (277 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024S1.JPG’ saved [65756/65756]
+
+--2026-05-20 21:30:14--  https://www.iciit.org/images/ICIIT2024/ICIIT2024S2.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 60804 (59K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024S2.JPG’
+
+     0K .......... .......... .......... .......... .......... 84% 4.95M 0s
+    50K .........                                             100% 17.5T=0.01s
+
+2026-05-20 21:30:14 (5.88 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024S2.JPG’ saved [60804/60804]
+
+--2026-05-20 21:30:14--  https://www.iciit.org/images/ICIIT2024/ICIIT2024S3.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 66496 (65K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024S3.JPG’
+
+     0K .......... .......... .......... .......... .......... 76%  322M 0s
+    50K .......... ....                                       100%  466M=0s
+
+2026-05-20 21:30:14 (347 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024S3.JPG’ saved [66496/66496]
+
+--2026-05-20 21:30:14--  https://www.iciit.org/images/ICIIT2024/ICIIT2024S4.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 60156 (59K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024S4.JPG’
+
+     0K .......... .......... .......... .......... .......... 85% 28.4M 0s
+    50K ........                                              100% 16.3T=0.002s
+
+2026-05-20 21:30:14 (33.3 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024S4.JPG’ saved [60156/60156]
+
+--2026-05-20 21:30:14--  https://www.iciit.org/images/ICIIT2024/ICIIT2024S5.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 67056 (65K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024S5.JPG’
+
+     0K .......... .......... .......... .......... .......... 76% 7.52M 0s
+    50K .......... .....                                      100%  338M=0.007s
+
+2026-05-20 21:30:14 (9.78 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024S5.JPG’ saved [67056/67056]
+
+--2026-05-20 21:30:14--  https://www.iciit.org/images/ICIIT2024/ICIIT2024S6.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 71268 (70K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024S6.JPG’
+
+     0K .......... .......... .......... .......... .......... 71% 45.5M 0s
+    50K .......... .........                                  100%  599M=0.001s
+
+2026-05-20 21:30:14 (61.5 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024S6.JPG’ saved [71268/71268]
+
+--2026-05-20 21:30:14--  https://www.iciit.org/images/ICIIT2024/ICIIT2024S7.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 60424 (59K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024S7.JPG’
+
+     0K .......... .......... .......... .......... .......... 84%  278M 0s
+    50K .........                                             100% 16.8T=0s
+
+2026-05-20 21:30:14 (328 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2024/ICIIT2024S7.JPG’ saved [60424/60424]
+
+--2026-05-20 21:30:14--  https://www.iciit.org/images/ICIIT2023/ICIIT2023AV1.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 68369 (67K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2023/ICIIT2023AV1.jpg’
+
+     0K .......... .......... .......... .......... .......... 74%  340M 0s
+    50K .......... ......                                     100%  395M=0s
+
+2026-05-20 21:30:14 (352 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2023/ICIIT2023AV1.jpg’ saved [68369/68369]
+
+--2026-05-20 21:30:14--  https://www.iciit.org/images/ICIIT2023/ICIIT2023AV3.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 67681 (66K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2023/ICIIT2023AV3.jpg’
+
+     0K .......... .......... .......... .......... .......... 75% 47.8M 0s
+    50K .......... ......                                     100%  134M=0.001s
+
+2026-05-20 21:30:14 (56.6 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2023/ICIIT2023AV3.jpg’ saved [67681/67681]
+
+--2026-05-20 21:30:14--  https://www.iciit.org/images/ICIIT2023/ICIIT2023AV2.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 65658 (64K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2023/ICIIT2023AV2.jpg’
+
+     0K .......... .......... .......... .......... .......... 77%  288M 0s
+    50K .......... ....                                       100%  564M=0s
+
+2026-05-20 21:30:14 (323 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2023/ICIIT2023AV2.jpg’ saved [65658/65658]
+
+--2026-05-20 21:30:14--  https://www.iciit.org/images/ICIIT2022/OP-Prof.%20Shaoming%20Luo.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 135562 (132K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/OP-Prof. Shaoming Luo.png’
+
+     0K .......... .......... .......... .......... .......... 37% 34.9M 0s
+    50K .......... .......... .......... .......... .......... 75% 1.03M 0s
+   100K .......... .......... .......... ..                   100%  324M=0.05s
+
+2026-05-20 21:30:15 (2.64 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/OP-Prof. Shaoming Luo.png’ saved [135562/135562]
+
+--2026-05-20 21:30:15--  https://www.iciit.org/images/ICIIT2022/KN1-Prof.%20Rui%20Zhang.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 189639 (185K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/KN1-Prof. Rui Zhang.png’
+
+     0K .......... .......... .......... .......... .......... 26%  318M 0s
+    50K .......... .......... .......... .......... .......... 53%  735K 0s
+   100K .......... .......... .......... .......... .......... 80%  217M 0s
+   150K .......... .......... .......... .....                100% 10.1M=0.07s
+
+2026-05-20 21:30:15 (2.52 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/KN1-Prof. Rui Zhang.png’ saved [189639/189639]
+
+--2026-05-20 21:30:15--  https://www.iciit.org/images/ICIIT2022/KN2-Prof.%20Edmund%20Lai.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 326029 (318K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/KN2-Prof. Edmund Lai.png’
+
+     0K .......... .......... .......... .......... .......... 15% 8.42M 0s
+    50K .......... .......... .......... .......... .......... 31% 1.01M 0s
+   100K .......... .......... .......... .......... .......... 47%  266M 0s
+   150K .......... .......... .......... .......... .......... 62%  931K 0s
+   200K .......... .......... .......... .......... .......... 78% 14.9M 0s
+   250K .......... .......... .......... .......... .......... 94% 2.89M 0s
+   300K .......... ........                                   100%  719K=0.2s
+
+2026-05-20 21:30:15 (2.02 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/KN2-Prof. Edmund Lai.png’ saved [326029/326029]
+
+--2026-05-20 21:30:15--  https://www.iciit.org/images/ICIIT2022/KN3-Prof.%20Zhihua%20WANG.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 141013 (138K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/KN3-Prof. Zhihua WANG.png’
+
+     0K .......... .......... .......... .......... .......... 36% 22.5M 0s
+    50K .......... .......... .......... .......... .......... 72% 1.02M 0s
+   100K .......... .......... .......... .......              100% 3.87M=0.06s
+
+2026-05-20 21:30:15 (2.27 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/KN3-Prof. Zhihua WANG.png’ saved [141013/141013]
+
+--2026-05-20 21:30:15--  https://www.iciit.org/images/ICIIT2022/S1-BP-FS0010.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 221782 (217K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/S1-BP-FS0010.png’
+
+     0K .......... .......... .......... .......... .......... 23% 3.27M 0s
+    50K .......... .......... .......... .......... .......... 46% 1.70M 0s
+   100K .......... .......... .......... .......... .......... 69% 1.27M 0s
+   150K .......... .......... .......... .......... .......... 92% 5.15M 0s
+   200K .......... ......                                     100% 4.00M=0.1s
+
+2026-05-20 21:30:15 (2.21 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/S1-BP-FS0010.png’ saved [221782/221782]
+
+--2026-05-20 21:30:15--  https://www.iciit.org/images/ICIIT2022/S2-BP-FS0019.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 107349 (105K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/S2-BP-FS0019.png’
+
+     0K .......... .......... .......... .......... .......... 47% 1.12M 0s
+    50K .......... .......... .......... .......... .......... 95% 8.19M 0s
+   100K ....                                                  100% 9.00T=0.05s
+
+2026-05-20 21:30:16 (2.06 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/S2-BP-FS0019.png’ saved [107349/107349]
+
+--2026-05-20 21:30:16--  https://www.iciit.org/images/ICIIT2022/S3-BP-FS2003-A.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 137339 (134K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/S3-BP-FS2003-A.png’
+
+     0K .......... .......... .......... .......... .......... 37%  155M 0s
+    50K .......... .......... .......... .......... .......... 74% 1.13M 0s
+   100K .......... .......... .......... ....                 100% 22.7M=0.05s
+
+2026-05-20 21:30:16 (2.91 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2022/S3-BP-FS2003-A.png’ saved [137339/137339]
+
+--2026-05-20 21:30:16--  https://www.iciit.org/images/ICIIT2021/ICIIT2021-BP.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 57628 (56K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2021/ICIIT2021-BP.png’
+
+     0K .......... .......... .......... .......... .......... 88% 8.14M 0s
+    50K ......                                                100% 11.7T=0.006s
+
+2026-05-20 21:30:16 (9.16 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2021/ICIIT2021-BP.png’ saved [57628/57628]
+
+--2026-05-20 21:30:16--  https://www.iciit.org/images/ICIIT2020/Honored%20Speakers.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 262691 (257K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/Honored Speakers.jpg’
+
+     0K .......... .......... .......... .......... .......... 19% 7.44M 0s
+    50K .......... .......... .......... .......... .......... 38%  766K 0s
+   100K .......... .......... .......... .......... .......... 58%  431M 0s
+   150K .......... .......... .......... .......... .......... 77% 2.66M 0s
+   200K .......... .......... .......... .......... .......... 97% 1.34M 0s
+   250K ......                                                100% 74.1M=0.1s
+
+2026-05-20 21:30:16 (1.98 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/Honored Speakers.jpg’ saved [262691/262691]
+
+--2026-05-20 21:30:16--  https://www.iciit.org/images/ICIIT2020/HSONLINE.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 199645 (195K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/HSONLINE.jpg’
+
+     0K .......... .......... .......... .......... .......... 25%  312M 0s
+    50K .......... .......... .......... .......... .......... 51% 1001K 0s
+   100K .......... .......... .......... .......... .......... 76% 14.8M 0s
+   150K .......... .......... .......... .......... ....      100% 4.37M=0.06s
+
+2026-05-20 21:30:16 (3.00 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/HSONLINE.jpg’ saved [199645/199645]
+
+--2026-05-20 21:30:16--  https://www.iciit.org/images/ICIIT2020/BP1.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 203061 (198K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/BP1.jpg’
+
+     0K .......... .......... .......... .......... .......... 25%  203M 0s
+    50K .......... .......... .......... .......... .......... 50%  979K 0s
+   100K .......... .......... .......... .......... .......... 75%  227M 0s
+   150K .......... .......... .......... .......... ........  100% 6.87M=0.06s
+
+2026-05-20 21:30:16 (3.32 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/BP1.jpg’ saved [203061/203061]
+
+--2026-05-20 21:30:16--  https://www.iciit.org/images/ICIIT2020/BP2.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 182724 (178K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/BP2.jpg’
+
+     0K .......... .......... .......... .......... .......... 28% 6.90M 0s
+    50K .......... .......... .......... .......... .......... 56%  855K 0s
+   100K .......... .......... .......... .......... .......... 84% 3.18M 0s
+   150K .......... .......... ........                        100% 1.26M=0.1s
+
+2026-05-20 21:30:17 (1.69 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/BP2.jpg’ saved [182724/182724]
+
+--2026-05-20 21:30:17--  https://www.iciit.org/images/ICIIT2020/BP3.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 218313 (213K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/BP3.jpg’
+
+     0K .......... .......... .......... .......... .......... 23% 12.4M 0s
+    50K .......... .......... .......... .......... .......... 46% 1023K 0s
+   100K .......... .......... .......... .......... .......... 70% 1.98M 0s
+   150K .......... .......... .......... .......... .......... 93% 26.7M 0s
+   200K .......... ...                                        100%  116M=0.08s
+
+2026-05-20 21:30:17 (2.62 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/BP3.jpg’ saved [218313/218313]
+
+--2026-05-20 21:30:17--  https://www.iciit.org/images/ICIIT2020/BP4.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 195651 (191K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/BP4.jpg’
+
+     0K .......... .......... .......... .......... .......... 26%  180M 0s
+    50K .......... .......... .......... .......... .......... 52%  933K 0s
+   100K .......... .......... .......... .......... .......... 78% 5.94M 0s
+   150K .......... .......... .......... .......... .         100%  322M=0.06s
+
+2026-05-20 21:30:17 (3.00 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2020/BP4.jpg’ saved [195651/195651]
+
+--2026-05-20 21:30:17--  https://www.iciit.org/images/ICIIT2019/ICIIT2019EI1.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 30147 (29K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/ICIIT2019EI1.png’
+
+     0K .......... .......... .........                       100%  542M=0s
+
+2026-05-20 21:30:17 (542 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/ICIIT2019EI1.png’ saved [30147/30147]
+
+--2026-05-20 21:30:17--  https://www.iciit.org/images/ICIIT2019/iciit2019scopus1.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 57505 (56K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/iciit2019scopus1.png’
+
+     0K .......... .......... .......... .......... .......... 89% 20.3M 0s
+    50K ......                                                100% 11.5T=0.002s
+
+2026-05-20 21:30:17 (22.8 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/iciit2019scopus1.png’ saved [57505/57505]
+
+--2026-05-20 21:30:17--  https://www.iciit.org/images/ICIIT2019/HS.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 194135 (190K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/HS.jpg’
+
+     0K .......... .......... .......... .......... .......... 26% 4.17M 0s
+    50K .......... .......... .......... .......... .......... 52% 1.11M 0s
+   100K .......... .......... .......... .......... .......... 79% 25.1M 0s
+   150K .......... .......... .......... .........            100% 6.66M=0.06s
+
+2026-05-20 21:30:17 (2.92 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/HS.jpg’ saved [194135/194135]
+
+--2026-05-20 21:30:17--  https://www.iciit.org/images/ICIIT2019/S1.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 234638 (229K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/S1.jpg’
+
+     0K .......... .......... .......... .......... .......... 21% 6.32M 0s
+    50K .......... .......... .......... .......... .......... 43% 1.35M 0s
+   100K .......... .......... .......... .......... .......... 65% 6.00M 0s
+   150K .......... .......... .......... .......... .......... 87% 3.71M 0s
+   200K .......... .......... .........                       100% 1.24M=0.09s
+
+2026-05-20 21:30:17 (2.54 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/S1.jpg’ saved [234638/234638]
+
+--2026-05-20 21:30:18--  https://www.iciit.org/images/ICIIT2019/S2.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 242297 (237K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/S2.jpg’
+
+     0K .......... .......... .......... .......... .......... 21%  413M 0s
+    50K .......... .......... .......... .......... .......... 42%  926K 0s
+   100K .......... .......... .......... .......... .......... 63% 5.86M 0s
+   150K .......... .......... .......... .......... .......... 84% 16.5M 0s
+   200K .......... .......... .......... ......               100% 1.13M=0.1s
+
+2026-05-20 21:30:18 (2.38 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/S2.jpg’ saved [242297/242297]
+
+--2026-05-20 21:30:18--  https://www.iciit.org/images/ICIIT2019/S3.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 263118 (257K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/S3.jpg’
+
+     0K .......... .......... .......... .......... .......... 19%  271M 0s
+    50K .......... .......... .......... .......... .......... 38% 1.11M 0s
+   100K .......... .......... .......... .......... .......... 58% 1.92M 0s
+   150K .......... .......... .......... .......... .......... 77%  175M 0s
+   200K .......... .......... .......... .......... .......... 97% 1.16M 0s
+   250K ......                                                100%  115M=0.1s
+
+2026-05-20 21:30:18 (2.24 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/S3.jpg’ saved [263118/263118]
+
+--2026-05-20 21:30:18--  https://www.iciit.org/images/ICIIT2019/Poster%20BP.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 122898 (120K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/Poster BP.jpg’
+
+     0K .......... .......... .......... .......... .......... 41%  294M 0s
+    50K .......... .......... .......... .......... .......... 83% 1.15M 0s
+   100K .......... ..........                                 100%  166M=0.04s
+
+2026-05-20 21:30:18 (2.75 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/Poster BP.jpg’ saved [122898/122898]
+
+--2026-05-20 21:30:18--  https://www.iciit.org/images/ICIIT2019/Academicvisit2019.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 145434 (142K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/Academicvisit2019.jpg’
+
+     0K .......... .......... .......... .......... .......... 35%  291M 0s
+    50K .......... .......... .......... .......... .......... 70% 39.0M 0s
+   100K .......... .......... .......... .......... ..        100%  918K=0.05s
+
+2026-05-20 21:30:18 (2.94 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2019/Academicvisit2019.jpg’ saved [145434/145434]
+
+--2026-05-20 21:30:18--  https://www.iciit.org/images/ICIIT2018/OP.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 152130 (149K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/OP.JPG’
+
+     0K .......... .......... .......... .......... .......... 33% 5.65M 0s
+    50K .......... .......... .......... .......... .......... 67% 13.8M 0s
+   100K .......... .......... .......... .......... ........  100%  978K=0.06s
+
+2026-05-20 21:30:18 (2.35 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/OP.JPG’ saved [152130/152130]
+
+--2026-05-20 21:30:18--  https://www.iciit.org/images/ICIIT2018/PS1.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 124454 (122K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/PS1.JPG’
+
+     0K .......... .......... .......... .......... .......... 41% 6.41M 0s
+    50K .......... .......... .......... .......... .......... 82%  379M 0s
+   100K .......... .......... .                               100%  628K=0.04s
+
+2026-05-20 21:30:19 (2.82 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/PS1.JPG’ saved [124454/124454]
+
+--2026-05-20 21:30:19--  https://www.iciit.org/images/ICIIT2018/PS2.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 125083 (122K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/PS2.JPG’
+
+     0K .......... .......... .......... .......... .......... 40% 8.68M 0s
+    50K .......... .......... .......... .......... .......... 81% 22.7M 0s
+   100K .......... .......... ..                              100%  454K=0.06s
+
+2026-05-20 21:30:19 (2.11 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/PS2.JPG’ saved [125083/125083]
+
+--2026-05-20 21:30:19--  https://www.iciit.org/images/ICIIT2018/PS3.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 134702 (132K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/PS3.JPG’
+
+     0K .......... .......... .......... .......... .......... 38%  275M 0s
+    50K .......... .......... .......... .......... .......... 76% 5.78M 0s
+   100K .......... .......... .......... .                    100%  827K=0.05s
+
+2026-05-20 21:30:19 (2.75 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/PS3.JPG’ saved [134702/134702]
+
+--2026-05-20 21:30:19--  https://www.iciit.org/images/ICIIT2018/CC-1-A.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 129474 (126K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/CC-1-A.JPG’
+
+     0K .......... .......... .......... .......... .......... 39% 4.95M 0s
+    50K .......... .......... .......... .......... .......... 79% 10.3M 0s
+   100K .......... .......... ......                          100%  536K=0.06s
+
+2026-05-20 21:30:19 (1.93 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/CC-1-A.JPG’ saved [129474/129474]
+
+--2026-05-20 21:30:19--  https://www.iciit.org/images/ICIIT2018/CC-1-B.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 130026 (127K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/CC-1-B.JPG’
+
+     0K .......... .......... .......... .......... .......... 39% 17.9M 0s
+    50K .......... .......... .......... .......... .......... 78% 16.4M 0s
+   100K .......... .......... ......                          100%  702K=0.04s
+
+2026-05-20 21:30:19 (2.81 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/CC-1-B.JPG’ saved [130026/130026]
+
+--2026-05-20 21:30:19--  https://www.iciit.org/images/ICIIT2018/CC-2-A.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 123118 (120K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/CC-2-A.JPG’
+
+     0K .......... .......... .......... .......... .......... 41%  421M 0s
+    50K .......... .......... .......... .......... .......... 83% 7.92M 0s
+   100K .......... ..........                                 100%  477K=0.05s
+
+2026-05-20 21:30:19 (2.41 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/CC-2-A.JPG’ saved [123118/123118]
+
+--2026-05-20 21:30:19--  https://www.iciit.org/images/ICIIT2018/CC3.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 132761 (130K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/CC3.JPG’
+
+     0K .......... .......... .......... .......... .......... 38% 7.33M 0s
+    50K .......... .......... .......... .......... .......... 77%  608M 0s
+   100K .......... .......... .........                       100%  770K=0.05s
+
+2026-05-20 21:30:19 (2.80 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/CC3.JPG’ saved [132761/132761]
+
+--2026-05-20 21:30:20--  https://www.iciit.org/images/ICIIT2018/IS,%20SC2.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 131724 (129K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/IS, SC2.JPG’
+
+     0K .......... .......... .......... .......... .......... 38% 6.60M 0s
+    50K .......... .......... .......... .......... .......... 77% 2.17M 0s
+   100K .......... .......... ........                        100%  638K=0.07s
+
+2026-05-20 21:30:20 (1.68 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/IS, SC2.JPG’ saved [131724/131724]
+
+--2026-05-20 21:30:20--  https://www.iciit.org/images/ICIIT2018/SC3.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 133720 (131K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/SC3.JPG’
+
+     0K .......... .......... .......... .......... .......... 38%  412M 0s
+    50K .......... .......... .......... .......... .......... 76% 5.08M 0s
+   100K .......... .......... ..........                      100%  824K=0.05s
+
+2026-05-20 21:30:20 (2.72 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/SC3.JPG’ saved [133720/133720]
+
+--2026-05-20 21:30:20--  https://www.iciit.org/images/ICIIT2018/SC1.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 135085 (132K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/SC1.JPG’
+
+     0K .......... .......... .......... .......... .......... 37% 1.02M 0s
+    50K .......... .......... .......... .......... .......... 75%  294M 0s
+   100K .......... .......... .......... .                    100% 7.67M=0.05s
+
+2026-05-20 21:30:20 (2.47 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/SC1.JPG’ saved [135085/135085]
+
+--2026-05-20 21:30:20--  https://www.iciit.org/images/ICIIT2018/BEST1%20C0002.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 94979 (93K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/BEST1 C0002.JPG’
+
+     0K .......... .......... .......... .......... .......... 53%  192M 0s
+    50K .......... .......... .......... .......... ..        100% 3.66M=0.01s
+
+2026-05-20 21:30:20 (7.77 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/BEST1 C0002.JPG’ saved [94979/94979]
+
+--2026-05-20 21:30:20--  https://www.iciit.org/images/ICIIT2018/BEST2%20H0004.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 98878 (97K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/BEST2 H0004.JPG’
+
+     0K .......... .......... .......... .......... .......... 51% 11.8M 0s
+    50K .......... .......... .......... .......... ......    100% 63.7M=0.005s
+
+2026-05-20 21:30:20 (19.5 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/BEST2 H0004.JPG’ saved [98878/98878]
+
+--2026-05-20 21:30:20--  https://www.iciit.org/images/ICIIT2018/BEST3%20C0022.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 99680 (97K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/BEST3 C0022.JPG’
+
+     0K .......... .......... .......... .......... .......... 51%  462M 0s
+    50K .......... .......... .......... .......... .......   100%  784M=0s
+
+2026-05-20 21:30:20 (577 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/BEST3 C0022.JPG’ saved [99680/99680]
+
+--2026-05-20 21:30:20--  https://www.iciit.org/images/ICIIT2018/BEST4%20H0011.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 96579 (94K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/BEST4 H0011.JPG’
+
+     0K .......... .......... .......... .......... .......... 53% 3.80M 0s
+    50K .......... .......... .......... .......... ....      100%  225M=0.01s
+
+2026-05-20 21:30:20 (7.06 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/BEST4 H0011.JPG’ saved [96579/96579]
+
+--2026-05-20 21:30:20--  https://www.iciit.org/images/ICIIT2018/visit.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 235916 (230K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/visit.JPG’
+
+     0K .......... .......... .......... .......... .......... 21%  320M 0s
+    50K .......... .......... .......... .......... .......... 43%  205M 0s
+   100K .......... .......... .......... .......... .......... 65%  994K 0s
+   150K .......... .......... .......... .......... .......... 86% 3.76M 0s
+   200K .......... .......... ..........                      100% 1013K=0.09s
+
+2026-05-20 21:30:21 (2.40 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/visit.JPG’ saved [235916/235916]
+
+--2026-05-20 21:30:21--  https://www.iciit.org/images/ICIIT2018/visit1.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 210279 (205K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/visit1.JPG’
+
+     0K .......... .......... .......... .......... .......... 24% 2.74M 0s
+    50K .......... .......... .......... .......... .......... 48% 17.8M 0s
+   100K .......... .......... .......... .......... .......... 73% 1007K 0s
+   150K .......... .......... .......... .......... .......... 97% 13.2M 0s
+   200K .....                                                 100% 9.97T=0.07s
+
+2026-05-20 21:30:21 (2.71 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/visit1.JPG’ saved [210279/210279]
+
+--2026-05-20 21:30:21--  https://www.iciit.org/images/ICIIT2018/visit2.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 210385 (205K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/visit2.JPG’
+
+     0K .......... .......... .......... .......... .......... 24% 7.05M 0s
+    50K .......... .......... .......... .......... .......... 48% 16.6M 0s
+   100K .......... .......... .......... .......... .......... 73% 1010K 0s
+   150K .......... .......... .......... .......... .......... 97% 24.0M 0s
+   200K .....                                                 100% 10.2T=0.06s
+
+2026-05-20 21:30:21 (3.27 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/visit2.JPG’ saved [210385/210385]
+
+--2026-05-20 21:30:21--  https://www.iciit.org/images/ICIIT2018/visit4.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 317298 (310K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/visit4.JPG’
+
+     0K .......... .......... .......... .......... .......... 16%  325M 0s
+    50K .......... .......... .......... .......... .......... 32% 7.88M 0s
+   100K .......... .......... .......... .......... .......... 48%  795K 0s
+   150K .......... .......... .......... .......... .......... 64%  377M 0s
+   200K .......... .......... .......... .......... .......... 80%  996K 0s
+   250K .......... .......... .......... .......... .......... 96% 31.2M 0s
+   300K .........                                             100% 18.2M=0.1s
+
+2026-05-20 21:30:21 (2.49 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/ICIIT2018/visit4.JPG’ saved [317298/317298]
+
+--2026-05-20 21:30:21--  https://www.iciit.org/images/venue/2.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 126380 (123K) [image/jpeg]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/venue/2.jpg’
+
+     0K .......... .......... .......... .......... .......... 40%  267M 0s
+    50K .......... .......... .......... .......... .......... 81% 2.07M 0s
+   100K .......... .......... ...                             100% 1.01M=0.05s
+
+2026-05-20 21:30:21 (2.60 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/venue/2.jpg’ saved [126380/126380]
+
+--2026-05-20 21:30:21--  https://www.iciit.org/images/office-girl.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15573 (15K) [image/png]
+Saving to: ‘/tmp/iciit-404-capture/www.iciit.org/images/office-girl.png’
+
+     0K .......... .....                                      100%  378M=0s
+
+2026-05-20 21:30:21 (378 MB/s) - ‘/tmp/iciit-404-capture/www.iciit.org/images/office-girl.png’ saved [15573/15573]
+
+--2026-05-20 21:30:21--  https://www.iciit.org/fonts/fontawesome-webfont.eot?v=4.7.0
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:30:22 ERROR 404: Not Found.
+
+--2026-05-20 21:30:22--  https://www.iciit.org/fonts/fontawesome-webfont.eot?
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:30:22 ERROR 404: Not Found.
+
+--2026-05-20 21:30:22--  https://www.iciit.org/fonts/fontawesome-webfont.woff2?v=4.7.0
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:30:22 ERROR 404: Not Found.
+
+--2026-05-20 21:30:22--  https://www.iciit.org/fonts/fontawesome-webfont.woff?v=4.7.0
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:30:22 ERROR 404: Not Found.
+
+--2026-05-20 21:30:22--  https://www.iciit.org/fonts/fontawesome-webfont.ttf?v=4.7.0
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:30:22 ERROR 404: Not Found.
+
+--2026-05-20 21:30:22--  https://www.iciit.org/fonts/fontawesome-webfont.svg?v=4.7.0
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:30:22 ERROR 404: Not Found.
+
+FINISHED --2026-05-20 21:30:22--
+Total wall clock time: 55s
+Downloaded: 204 files, 37M in 25s (1.49 MB/s)
+Converting links in /tmp/iciit-404-capture/www.iciit.org/iciit2022.html... 71.
+68-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/sub.html... 66.
+62-4
+Converting links in /tmp/iciit-404-capture/www.iciit.org/visit.html... 57.
+54-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/contact.html... 58.
+55-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/cfp.html... 60.
+57-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/date.html... 57.
+54-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/iciit2021.html... 61.
+58-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/ssession.html... 57.
+54-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/invited.html... 61.
+58-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/com.html... 57.
+54-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/PI.html... 58.
+55-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/iciit2020.html... 67.
+64-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/reg.html... 58.
+54-4
+Converting links in /tmp/iciit-404-capture/www.iciit.org/venue.html... 58.
+55-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/pasts.html... 79.
+76-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/prog.html... 57.
+54-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/iciit2019.html... 69.
+66-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/sponsor.html... 57.
+54-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/history.html... 89.
+85-4
+Converting links in /tmp/iciit-404-capture/www.iciit.org/iciit2025.html... 70.
+67-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/index.html... 90.
+86-4
+Converting links in /tmp/iciit-404-capture/www.iciit.org/iciit2018.html... 83.
+80-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/iciit2024.html... 74.
+71-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/keynote.html... 58.
+55-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/iciit2023.html... 65.
+62-3
+Converting links in /tmp/iciit-404-capture/www.iciit.org/css/custom.css... nothing to do.
+Converting links in /tmp/iciit-404-capture/www.iciit.org/css/font-awesome.min.css... 6.
+0-6
+Converting links in /tmp/iciit-404-capture/www.iciit.org/css/colorbox.css... 17.
+0-17
+Converting links in /tmp/iciit-404-capture/www.iciit.org/css/shortcodes.css... 24.
+0-24
+Converting links in /tmp/iciit-404-capture/www.iciit.org/css/style.css... 12.
+5-7
+Converted links in 30 files in 0.01 seconds.

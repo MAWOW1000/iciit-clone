@@ -1,0 +1,2645 @@
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:54--  https://www.iciit.org/index.html
+Resolving www.iciit.org (www.iciit.org)... 101.32.203.163
+Connecting to www.iciit.org (www.iciit.org)|101.32.203.163|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 34370 (34K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:55--  https://www.iciit.org/index.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 34370 (34K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/index.html.tmp.tmp’
+
+     0K .......... .......... .......... ...                  100%  236M=0s
+
+2026-05-20 21:28:55 (236 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/index.html.tmp.tmp’ saved [34370/34370]
+
+Loading robots.txt; please ignore errors.
+--2026-05-20 21:28:55--  https://www.iciit.org/robots.txt
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-20 21:28:55 ERROR 404: Not Found.
+
+Removing /tmp/iciit-spider/www.iciit.org/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:55--  https://www.iciit.org/favicon.ico
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4286 (4.2K) [image/x-icon]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/favicon.ico.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:55--  https://www.iciit.org/feed.txt
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 757 [text/plain]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/feed.txt.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:55--  https://www.iciit.org/feed-a.txt
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 757 [text/plain]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/feed-a.txt.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:55--  https://www.iciit.org/css/style.css
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 137667 (134K) [text/css]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:55--  https://www.iciit.org/css/style.css
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 137667 (134K) [text/css]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/css/style.css.tmp.tmp’
+
+     0K .......... .......... .......... .......... .......... 37%  424K 0s
+    50K .......... .......... .......... .......... .......... 74%  741K 0s
+   100K .......... .......... .......... ....                 100%  592K=0.2s
+
+2026-05-20 21:28:55 (552 KB/s) - ‘/tmp/iciit-spider/www.iciit.org/css/style.css.tmp.tmp’ saved [137667/137667]
+
+Removing /tmp/iciit-spider/www.iciit.org/css/style.css.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:55--  https://www.iciit.org/css/colorbox.css
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5181 (5.1K) [text/css]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:55--  https://www.iciit.org/css/colorbox.css
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5181 (5.1K) [text/css]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/css/colorbox.css.tmp.tmp’
+
+     0K .....                                                 100% 93.0M=0s
+
+2026-05-20 21:28:55 (93.0 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/css/colorbox.css.tmp.tmp’ saved [5181/5181]
+
+Removing /tmp/iciit-spider/www.iciit.org/css/colorbox.css.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:55--  https://www.iciit.org/js/jquery.js
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 97184 (95K) [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/js/jquery.js.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:55--  https://www.iciit.org/js/jquery-migrate.min.js
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10056 (9.8K) [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/js/jquery-migrate.min.js.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:56--  https://www.iciit.org/js/third-party.min.js
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1983 (1.9K) [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/js/third-party.min.js.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:56--  https://www.iciit.org/js/modernizr.min.js
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5046 (4.9K) [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/js/modernizr.min.js.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:56--  https://www.iciit.org/js/jquery.flexslider.min.js
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22343 (22K) [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/js/jquery.flexslider.min.js.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:56--  https://www.iciit.org/js/general.min.js
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1852 (1.8K) [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/js/general.min.js.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:56--  https://www.iciit.org/js/xmlrpc.php.xml
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 842 [text/xml]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/js/xmlrpc.php.xml.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:56--  https://www.iciit.org/js/xmlrpc.php-a.xml
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 842 [text/xml]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/js/xmlrpc.php-a.xml.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:56--  https://www.iciit.org/js/wlwmanifest.xml
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:56--  https://www.iciit.org/js/embed
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:56--  https://www.iciit.org/js/embed.xml
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2273 (2.2K) [text/xml]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/js/embed.xml.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:56--  https://www.iciit.org/css/shortcodes.css
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 28300 (28K) [text/css]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:56--  https://www.iciit.org/css/shortcodes.css
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 28300 (28K) [text/css]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/css/shortcodes.css.tmp.tmp’
+
+     0K .......... .......... .......                         100%  269M=0s
+
+2026-05-20 21:28:56 (269 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/css/shortcodes.css.tmp.tmp’ saved [28300/28300]
+
+Removing /tmp/iciit-spider/www.iciit.org/css/shortcodes.css.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:56--  https://www.iciit.org/css/custom.css
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 610 [text/css]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:56--  https://www.iciit.org/css/custom.css
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 610 [text/css]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/css/custom.css.tmp.tmp’
+
+     0K                                                       100% 30.6M=0s
+
+2026-05-20 21:28:56 (30.6 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/css/custom.css.tmp.tmp’ saved [610/610]
+
+Removing /tmp/iciit-spider/www.iciit.org/css/custom.css.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:56--  https://www.iciit.org/images/header.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 57571 (56K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/header.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:56--  https://www.iciit.org/
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 34370 (34K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:57--  https://www.iciit.org/
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 34370 (34K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/index.html.tmp.tmp’
+
+     0K .......... .......... .......... ...                  100%  120M=0s
+
+2026-05-20 21:28:57 (120 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/index.html.tmp.tmp’ saved [34370/34370]
+
+Removing /tmp/iciit-spider/www.iciit.org/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:57--  https://www.iciit.org/cfp.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24776 (24K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:57--  https://www.iciit.org/cfp.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24776 (24K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/cfp.html.tmp.tmp’
+
+     0K .......... .......... ....                            100%  380M=0s
+
+2026-05-20 21:28:57 (380 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/cfp.html.tmp.tmp’ saved [24776/24776]
+
+Removing /tmp/iciit-spider/www.iciit.org/cfp.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:57--  https://www.iciit.org/com.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 28946 (28K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:57--  https://www.iciit.org/com.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 28946 (28K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/com.html.tmp.tmp’
+
+     0K .......... .......... ........                        100%  330M=0s
+
+2026-05-20 21:28:57 (330 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/com.html.tmp.tmp’ saved [28946/28946]
+
+Removing /tmp/iciit-spider/www.iciit.org/com.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:57--  https://www.iciit.org/keynote.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23999 (23K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:57--  https://www.iciit.org/keynote.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23999 (23K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/keynote.html.tmp.tmp’
+
+     0K .......... .......... ...                             100%  183M=0s
+
+2026-05-20 21:28:57 (183 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/keynote.html.tmp.tmp’ saved [23999/23999]
+
+Removing /tmp/iciit-spider/www.iciit.org/keynote.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:57--  https://www.iciit.org/invited.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 31273 (31K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:57--  https://www.iciit.org/invited.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 31273 (31K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/invited.html.tmp.tmp’
+
+     0K .......... .......... ..........                      100%  508K=0.06s
+
+2026-05-20 21:28:57 (508 KB/s) - ‘/tmp/iciit-spider/www.iciit.org/invited.html.tmp.tmp’ saved [31273/31273]
+
+Removing /tmp/iciit-spider/www.iciit.org/invited.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:57--  https://www.iciit.org/pasts.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 26257 (26K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:57--  https://www.iciit.org/pasts.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 26257 (26K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/pasts.html.tmp.tmp’
+
+     0K .......... .......... .....                           100% 3.20M=0.008s
+
+2026-05-20 21:28:58 (3.20 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/pasts.html.tmp.tmp’ saved [26257/26257]
+
+Removing /tmp/iciit-spider/www.iciit.org/pasts.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:58--  https://www.iciit.org/prog.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24109 (24K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:58--  https://www.iciit.org/prog.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24109 (24K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/prog.html.tmp.tmp’
+
+     0K .......... .......... ...                             100% 12.9M=0.002s
+
+2026-05-20 21:28:58 (12.9 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/prog.html.tmp.tmp’ saved [24109/24109]
+
+Removing /tmp/iciit-spider/www.iciit.org/prog.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:58--  https://www.iciit.org/date.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23678 (23K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:58--  https://www.iciit.org/date.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23678 (23K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/date.html.tmp.tmp’
+
+     0K .......... .......... ...                             100% 16.1M=0.001s
+
+2026-05-20 21:28:58 (16.1 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/date.html.tmp.tmp’ saved [23678/23678]
+
+Removing /tmp/iciit-spider/www.iciit.org/date.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:58--  https://www.iciit.org/sub.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 26331 (26K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:58--  https://www.iciit.org/sub.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 26331 (26K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/sub.html.tmp.tmp’
+
+     0K .......... .......... .....                           100%  396M=0s
+
+2026-05-20 21:28:58 (396 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/sub.html.tmp.tmp’ saved [26331/26331]
+
+Removing /tmp/iciit-spider/www.iciit.org/sub.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:58--  https://www.iciit.org/PI.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22653 (22K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:58--  https://www.iciit.org/PI.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22653 (22K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/PI.html.tmp.tmp’
+
+     0K .......... .......... ..                              100% 1.53M=0.01s
+
+2026-05-20 21:28:58 (1.53 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/PI.html.tmp.tmp’ saved [22653/22653]
+
+Removing /tmp/iciit-spider/www.iciit.org/PI.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:58--  https://www.iciit.org/reg.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 41454 (40K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:58--  https://www.iciit.org/reg.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 41454 (40K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/reg.html.tmp.tmp’
+
+     0K .......... .......... .......... ..........           100%  296M=0s
+
+2026-05-20 21:28:58 (296 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/reg.html.tmp.tmp’ saved [41454/41454]
+
+Removing /tmp/iciit-spider/www.iciit.org/reg.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:58--  https://www.iciit.org/sponsor.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23271 (23K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:58--  https://www.iciit.org/sponsor.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23271 (23K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/sponsor.html.tmp.tmp’
+
+     0K .......... .......... ..                              100% 8.64M=0.003s
+
+2026-05-20 21:28:58 (8.64 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/sponsor.html.tmp.tmp’ saved [23271/23271]
+
+Removing /tmp/iciit-spider/www.iciit.org/sponsor.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:58--  https://www.iciit.org/history.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 27344 (27K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:59--  https://www.iciit.org/history.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 27344 (27K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/history.html.tmp.tmp’
+
+     0K .......... .......... ......                          100%  341M=0s
+
+2026-05-20 21:28:59 (341 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/history.html.tmp.tmp’ saved [27344/27344]
+
+Removing /tmp/iciit-spider/www.iciit.org/history.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:59--  https://www.iciit.org/iciit2025.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22558 (22K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:59--  https://www.iciit.org/iciit2025.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22558 (22K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/iciit2025.html.tmp.tmp’
+
+     0K .......... .......... ..                              100%  331M=0s
+
+2026-05-20 21:28:59 (331 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/iciit2025.html.tmp.tmp’ saved [22558/22558]
+
+Removing /tmp/iciit-spider/www.iciit.org/iciit2025.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:59--  https://www.iciit.org/iciit2024.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22768 (22K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:59--  https://www.iciit.org/iciit2024.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22768 (22K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/iciit2024.html.tmp.tmp’
+
+     0K .......... .......... ..                              100%  351M=0s
+
+2026-05-20 21:28:59 (351 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/iciit2024.html.tmp.tmp’ saved [22768/22768]
+
+Removing /tmp/iciit-spider/www.iciit.org/iciit2024.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:59--  https://www.iciit.org/iciit2023.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21811 (21K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:59--  https://www.iciit.org/iciit2023.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21811 (21K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/iciit2023.html.tmp.tmp’
+
+     0K .......... .......... .                               100%  411M=0s
+
+2026-05-20 21:28:59 (411 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/iciit2023.html.tmp.tmp’ saved [21811/21811]
+
+Removing /tmp/iciit-spider/www.iciit.org/iciit2023.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:59--  https://www.iciit.org/iciit2022.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24115 (24K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:59--  https://www.iciit.org/iciit2022.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24115 (24K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/iciit2022.html.tmp.tmp’
+
+     0K .......... .......... ...                             100%  532M=0s
+
+2026-05-20 21:28:59 (532 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/iciit2022.html.tmp.tmp’ saved [24115/24115]
+
+Removing /tmp/iciit-spider/www.iciit.org/iciit2022.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:59--  https://www.iciit.org/iciit2021.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21300 (21K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:59--  https://www.iciit.org/iciit2021.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21300 (21K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/iciit2021.html.tmp.tmp’
+
+     0K .......... ..........                                 100% 23.0M=0.001s
+
+2026-05-20 21:28:59 (23.0 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/iciit2021.html.tmp.tmp’ saved [21300/21300]
+
+Removing /tmp/iciit-spider/www.iciit.org/iciit2021.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:59--  https://www.iciit.org/iciit2020.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22496 (22K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:59--  https://www.iciit.org/iciit2020.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22496 (22K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/iciit2020.html.tmp.tmp’
+
+     0K .......... .......... .                               100%  191M=0s
+
+2026-05-20 21:28:59 (191 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/iciit2020.html.tmp.tmp’ saved [22496/22496]
+
+Removing /tmp/iciit-spider/www.iciit.org/iciit2020.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:59--  https://www.iciit.org/iciit2019.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22714 (22K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:59--  https://www.iciit.org/iciit2019.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22714 (22K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/iciit2019.html.tmp.tmp’
+
+     0K .......... .......... ..                              100%  209M=0s
+
+2026-05-20 21:28:59 (209 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/iciit2019.html.tmp.tmp’ saved [22714/22714]
+
+Removing /tmp/iciit-spider/www.iciit.org/iciit2019.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:59--  https://www.iciit.org/iciit2018.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23329 (23K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:59--  https://www.iciit.org/iciit2018.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23329 (23K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/iciit2018.html.tmp.tmp’
+
+     0K .......... .......... ..                              100%  366M=0s
+
+2026-05-20 21:28:59 (366 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/iciit2018.html.tmp.tmp’ saved [23329/23329]
+
+Removing /tmp/iciit-spider/www.iciit.org/iciit2018.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:59--  https://www.iciit.org/venue.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23916 (23K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:59--  https://www.iciit.org/venue.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23916 (23K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/venue.html.tmp.tmp’
+
+     0K .......... .......... ...                             100%  637M=0s
+
+2026-05-20 21:28:59 (637 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/venue.html.tmp.tmp’ saved [23916/23916]
+
+Removing /tmp/iciit-spider/www.iciit.org/venue.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:28:59--  https://www.iciit.org/visit.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23156 (23K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:28:59--  https://www.iciit.org/visit.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23156 (23K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/visit.html.tmp.tmp’
+
+     0K .......... .......... ..                              100%  350M=0s
+
+2026-05-20 21:29:00 (350 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/visit.html.tmp.tmp’ saved [23156/23156]
+
+Removing /tmp/iciit-spider/www.iciit.org/visit.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/contact.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21835 (21K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:29:00--  https://www.iciit.org/contact.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21835 (21K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/contact.html.tmp.tmp’
+
+     0K .......... .......... .                               100%  411M=0s
+
+2026-05-20 21:29:00 (411 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/contact.html.tmp.tmp’ saved [21835/21835]
+
+Removing /tmp/iciit-spider/www.iciit.org/contact.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/images/h1.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 176570 (172K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/h1.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/images/h2.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 152687 (149K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/h2.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/images/h3.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 162832 (159K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/h3.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/ICIIT2026CFP.pdf
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 523012 (511K) [application/pdf]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/ICIIT2026CFP.pdf.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/images%5COptoelectronics%20Letters.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/ICIIT2026poster1.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4129028 (3.9M) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/ICIIT2026poster1.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/ICIIT2026poster.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 48206 (47K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/ICIIT2026poster.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/images/ICIIT2024/EI.lnk.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 156504 (153K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2024/EI.lnk.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/images/ICIIT2024/SCOPUS.lnk.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 176024 (172K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2024/SCOPUS.lnk.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/images/ICIIT2023/ICIIT2023EI.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 69292 (68K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2023/ICIIT2023EI.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/images/ICIIT2023/ICIIT2023SCOPUS.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 57770 (56K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2023/ICIIT2023SCOPUS.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/images/logo-fpt.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5790 (5.7K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/logo-fpt.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/images/Logo-Swinburne.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7809 (7.6K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/Logo-Swinburne.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/images/cbees.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6326 (6.2K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/cbees.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/images/HVU.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13264 (13K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/HVU.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/images/FU.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10367 (10K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/FU.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/images/faai.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6916 (6.8K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/faai.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/images/eecs_logo.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4735 (4.6K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/eecs_logo.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/images/speaker/Slim%20Alouini.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 20642 (20K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/speaker/Slim Alouini.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/images/com/ZhihuaWang.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9340 (9.1K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/com/ZhihuaWang.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:00--  https://www.iciit.org/images/speaker/Kiyoshi%20Hoshino.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 29444 (29K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/speaker/Kiyoshi Hoshino.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/images/speaker/Vinod%20Achutavarrier%20Prasad.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 14761 (14K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/speaker/Vinod Achutavarrier Prasad.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/images/speaker/Chuan%20Ming%20Liu.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 47415 (46K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/speaker/Chuan Ming Liu.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/js/comment-reply.min.js
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1078 (1.1K) [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/js/comment-reply.min.js.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/js/jquery.colorbox.1.5.9.js
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 29153 (28K) [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/js/jquery.colorbox.1.5.9.js.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/js/wp-embed.min.js
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1398 (1.4K) [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/js/wp-embed.min.js.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/css/fontawesome-webfont.eot
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70807 (69K) [application/vnd.ms-fontobject]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/css/fontawesome-webfont.eot.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/css/fontawesome-webfont-a.eot
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 70807 (69K) [application/vnd.ms-fontobject]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/css/fontawesome-webfont-a.eot.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/css/fontawesome-webfont.woff2
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 66624 (65K) [font/woff2]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/css/fontawesome-webfont.woff2.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/css/fontawesome-webfont.woff
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 83588 (82K) [font/woff]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/css/fontawesome-webfont.woff.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/css/fontawesome-webfont.ttf
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 142072 (139K) [application/octet-stream]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/css/fontawesome-webfont.ttf.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/css/includes/fonts/fontawesome-webfont.svg?v=4.5.0
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/css/includes/fonts/social.eot
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/css/includes/fonts/social.eot?
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/css/includes/fonts/social.woff
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/css/includes/fonts/social.ttf
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/css/includes/fonts/social.svg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/css/images/portfolio-hover.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/css/images/border1.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/css/images/border2.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/css/images/loading.gif
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:01--  https://www.iciit.org/css/images/ie6/borderTopLeft.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/css/images/ie6/borderTopCenter.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/css/images/ie6/borderTopRight.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/css/images/ie6/borderBottomLeft.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/css/images/ie6/borderBottomCenter.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/css/images/ie6/borderBottomRight.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/css/images/ie6/borderMiddleLeft.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/css/images/ie6/borderMiddleRight.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/images/ico-alert.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/images/ico-download.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/images/ico-tick.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/images/ico-info.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/images/ico-note.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/images/quote.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/images/shortcode-toggle-close.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/images/shortcode-toggle-open.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/images/shortcode-tick.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/images/shortcode-red-x.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/images/shortcode-bullet.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/images/shortcode-green-dot.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/images/shortcode-arrow.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/images/shortcode-star.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:02--  https://www.iciit.org/css/font-awesome.min.css
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 31000 (30K) [text/css]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:29:03--  https://www.iciit.org/css/font-awesome.min.css
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 31000 (30K) [text/css]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/css/font-awesome.min.css.tmp.tmp’
+
+     0K .......... .......... ..........                      100% 1.61M=0.02s
+
+2026-05-20 21:29:03 (1.61 MB/s) - ‘/tmp/iciit-spider/www.iciit.org/css/font-awesome.min.css.tmp.tmp’ saved [31000/31000]
+
+Removing /tmp/iciit-spider/www.iciit.org/css/font-awesome.min.css.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:03--  https://www.iciit.org/ssession.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23599 (23K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-20 21:29:03--  https://www.iciit.org/ssession.html
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23599 (23K) [text/html]
+Saving to: ‘/tmp/iciit-spider/www.iciit.org/ssession.html.tmp.tmp’
+
+     0K .......... .......... ...                             100%  887K=0.03s
+
+2026-05-20 21:29:03 (887 KB/s) - ‘/tmp/iciit-spider/www.iciit.org/ssession.html.tmp.tmp’ saved [23599/23599]
+
+Removing /tmp/iciit-spider/www.iciit.org/ssession.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:03--  https://www.iciit.org/images/speaker/indrusiak.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13299 (13K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/speaker/indrusiak.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:03--  https://www.iciit.org/images/speaker/Mohd%20Nazri%20Bin%20Ismail.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13129 (13K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/speaker/Mohd Nazri Bin Ismail.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:03--  https://www.iciit.org/images/speaker/Mian%20Zhou.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10952 (11K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/speaker/Mian Zhou.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:03--  https://www.iciit.org/images/speaker/jiaxin.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 22299 (22K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/speaker/jiaxin.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:03--  https://www.iciit.org/images/speaker/Thanh%20Tung%20Khuat.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10163 (9.9K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/speaker/Thanh Tung Khuat.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:03--  https://www.iciit.org/images/com/Rui%20Zhang.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 25036 (24K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/com/Rui Zhang.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:03--  https://www.iciit.org/images/com/Edmund%20Lai.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 33195 (32K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/com/Edmund Lai.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:03--  https://www.iciit.org/images/com/Prof.%20Francis%20Y.%20L.%20Chin.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 33606 (33K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/com/Prof. Francis Y. L. Chin.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:03--  https://www.iciit.org/images/com/Alouini.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21314 (21K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/com/Alouini.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:03--  https://www.iciit.org/images/com/Chuan-Ming%20Liu.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38528 (38K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/com/Chuan-Ming Liu.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:03--  https://www.iciit.org/images/com/Mohd%20Zaid%20Bin%20Abdullah.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 35914 (35K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/com/Mohd Zaid Bin Abdullah.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:03--  https://www.iciit.org/images/speaker/Huh.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15970 (16K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/speaker/Huh.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:03--  https://www.iciit.org/images/speaker/Minh%20Nguyen.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23496 (23K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/speaker/Minh Nguyen.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:03--  https://www.iciit.org/images/com/Xingbo%20Wang.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 25508 (25K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/com/Xingbo Wang.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:04--  https://www.iciit.org/images/com/Hai%20V.%20Pham.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21800 (21K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/com/Hai V. Pham.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:06--  https://www.iciit.org/images/com/Akinori%20Ito.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6918 (6.8K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/com/Akinori Ito.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:06--  https://www.iciit.org/images/com/Ford%20Lumban%20Gaol.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6877 (6.7K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/com/Ford Lumban Gaol.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:07--  https://www.iciit.org/images/speaker/Kimura.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 40236 (39K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/speaker/Kimura.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:08--  https://www.iciit.org/images/com/Xiaolong%20Li.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 18186 (18K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/com/Xiaolong Li.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:08--  https://www.iciit.org/images/com/Anand%20Nayyar.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 45177 (44K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/com/Anand Nayyar.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:08--  https://www.iciit.org/images/com/Assoc.%20Prof.%20Norma%20Binti%20Alias.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3926 (3.8K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/com/Assoc. Prof. Norma Binti Alias.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:09--  https://www.iciit.org/images/com/Zuriati%20Ahmad%20Zukarnain.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 37610 (37K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/com/Zuriati Ahmad Zukarnain.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:09--  https://www.iciit.org/images/speaker/Balachandran%20Manavalan.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12951 (13K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/speaker/Balachandran Manavalan.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/images/speaker/Hung%20Dang.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12913 (13K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/speaker/Hung Dang.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/template.docx
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 393311 (384K) [application/vnd.openxmlformats-officedocument.wordprocessingml.document]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/template.docx.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/images/doc.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2449 (2.4K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/doc.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/LaTeX-Templates.zip
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12866639 (12M) [application/zip]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/LaTeX-Templates.zip.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/Abstract_Template.docx
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 24359 (24K) [application/vnd.openxmlformats-officedocument.wordprocessingml.document]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/Abstract_Template.docx.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/Poster_template.pdf
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2686306 (2.6M) [application/pdf]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/Poster_template.pdf.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/%E7%BC%83%E6%88%A0%E7%8F%AF%E9%8D%92%E6%9C%B5%E7%B6%94/2018/Feb.%2026-28%20Hanoi%20Vietnam/ICBCT%202018/img/groovepaper.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/images/ICIIT2024/ICIIT2024ACM.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 179233 (175K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2024/ICIIT2024ACM.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/images%5CICIIT2024%5CICIIT2024GP.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/images/ICIIT2023/ICIIT2023ACM.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 152313 (149K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2023/ICIIT2023ACM.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/images/ICIIT2023/ICIIT2023GP.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 303684 (297K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2023/ICIIT2023GP.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/images/ICIIT2023/ICIIT2023GP1.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 313442 (306K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2023/ICIIT2023GP1.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/images/ICIIT2022/ICIIT2022ACM.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 269576 (263K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2022/ICIIT2022ACM.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/images/ICIIT2022/ICIIT2022EI.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 119092 (116K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2022/ICIIT2022EI.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/images/ICIIT2022/ICIIT2022SCOPUS.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 104089 (102K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2022/ICIIT2022SCOPUS.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/images/ICIIT2022/ICIIT2022GP3.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 178935 (175K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2022/ICIIT2022GP3.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/images/ICIIT2022/ICIIT2022GP4.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 187881 (183K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2022/ICIIT2022GP4.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/images/ICIIT2022/ICIIT2022gp1.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 135134 (132K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2022/ICIIT2022gp1.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/images/ICIIT2022/ICIIT2022gp2.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 138858 (136K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2022/ICIIT2022gp2.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:10--  https://www.iciit.org/images/ICIIT2021/ICIIT2021ACM.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 206550 (202K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2021/ICIIT2021ACM.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2021/ICIIT2021EI.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 90733 (89K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2021/ICIIT2021EI.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2021/ICIIT2021SCOPUS.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 87698 (86K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2021/ICIIT2021SCOPUS.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2021/ICIIT2021-GP2.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 659390 (644K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2021/ICIIT2021-GP2.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2021/ICIIT2021-GP1.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 819127 (800K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2021/ICIIT2021-GP1.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2020/ICCIT2020ACM.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 95796 (94K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2020/ICCIT2020ACM.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2020/ICIIT2020EI.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 40778 (40K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2020/ICIIT2020EI.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2020/ICIIT2020Scopus.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23723 (23K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2020/ICIIT2020Scopus.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2020/GP2020.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 257092 (251K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2020/GP2020.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2019/ICIIT2019cover.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 170555 (167K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2019/ICIIT2019cover.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2019/ICIIT2019EI.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 27376 (27K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2019/ICIIT2019EI.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2019/iciit2019scopus.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 30371 (30K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2019/iciit2019scopus.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2019/ICIIT2019gp.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 140425 (137K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2019/ICIIT2019gp.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2018/ICIIT2018cover.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 77004 (75K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/ICIIT2018cover.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2018/ICIIT2018EI.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 43570 (43K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/ICIIT2018EI.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2018/ICIIT2018scopus.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 36887 (36K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/ICIIT2018scopus.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2018/Group%20photo.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 267815 (262K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/Group photo.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2018/Group%202.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 283843 (277K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/Group 2.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2025/cover.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 137325 (134K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2025/cover.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2025/GP.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 337592 (330K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2025/GP.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2025/OP.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 42164 (41K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2025/OP.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2025/KN-1.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 46503 (45K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2025/KN-1.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:11--  https://www.iciit.org/images/ICIIT2025/KN-2.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 40518 (40K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2025/KN-2.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2025/KN-3.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 40798 (40K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2025/KN-3.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2025/IS-1.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38471 (38K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2025/IS-1.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2025/IS-2.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 26413 (26K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2025/IS-2.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2025/S1-GP.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 31082 (30K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2025/S1-GP.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2025/S2-GP.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 37853 (37K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2025/S2-GP.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2025/S3-GP.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 32083 (31K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2025/S3-GP.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2025/S4-GP.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 37590 (37K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2025/S4-GP.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2025/S5-GP.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38361 (37K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2025/S5-GP.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2024/ICIIT2024GP.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 426145 (416K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2024/ICIIT2024GP.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2024/ICIIT2024OP.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 59716 (58K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2024/ICIIT2024OP.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2024/ICIIT2024KN1.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21988 (21K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2024/ICIIT2024KN1.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2024/ICIIT2024KN2.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 67938 (66K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2024/ICIIT2024KN2.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2024/ICIIT2024IS1.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 54956 (54K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2024/ICIIT2024IS1.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2024/ICIIT2024IS2.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 55308 (54K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2024/ICIIT2024IS2.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2024/ICIIT2024IS3.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 58124 (57K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2024/ICIIT2024IS3.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2024/ICIIT2024S1.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 65756 (64K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2024/ICIIT2024S1.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2024/ICIIT2024S2.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 60804 (59K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2024/ICIIT2024S2.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2024/ICIIT2024S3.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 66496 (65K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2024/ICIIT2024S3.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2024/ICIIT2024S4.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 60156 (59K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2024/ICIIT2024S4.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2024/ICIIT2024S5.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 67056 (65K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2024/ICIIT2024S5.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:12--  https://www.iciit.org/images/ICIIT2024/ICIIT2024S6.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 71268 (70K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2024/ICIIT2024S6.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2024/ICIIT2024S7.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 60424 (59K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2024/ICIIT2024S7.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2023/ICIIT2023AV1.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 68369 (67K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2023/ICIIT2023AV1.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2023/ICIIT2023AV3.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 67681 (66K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2023/ICIIT2023AV3.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2023/ICIIT2023AV2.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 65658 (64K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2023/ICIIT2023AV2.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2022/OP-Prof.%20Shaoming%20Luo.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 135562 (132K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2022/OP-Prof. Shaoming Luo.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2022/KN1-Prof.%20Rui%20Zhang.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 189639 (185K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2022/KN1-Prof. Rui Zhang.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2022/KN2-Prof.%20Edmund%20Lai.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 326029 (318K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2022/KN2-Prof. Edmund Lai.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2022/KN3-Prof.%20Zhihua%20WANG.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 141013 (138K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2022/KN3-Prof. Zhihua WANG.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2022/S1-BP-FS0010.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 221782 (217K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2022/S1-BP-FS0010.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2022/S2-BP-FS0019.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 107349 (105K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2022/S2-BP-FS0019.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2022/S3-BP-FS2003-A.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 137339 (134K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2022/S3-BP-FS2003-A.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2021/ICIIT2021-BP.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 57628 (56K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2021/ICIIT2021-BP.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2020/Honored%20Speakers.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 262691 (257K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2020/Honored Speakers.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2020/HSONLINE.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 199645 (195K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2020/HSONLINE.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2020/BP1.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 203061 (198K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2020/BP1.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2020/BP2.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 182724 (178K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2020/BP2.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2020/BP3.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 218313 (213K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2020/BP3.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2020/BP4.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 195651 (191K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2020/BP4.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2019/ICIIT2019EI1.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 30147 (29K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2019/ICIIT2019EI1.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2019/iciit2019scopus1.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 57505 (56K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2019/iciit2019scopus1.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2019/HS.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 194135 (190K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2019/HS.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2019/S1.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 234638 (229K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2019/S1.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2019/S2.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 242297 (237K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2019/S2.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:13--  https://www.iciit.org/images/ICIIT2019/S3.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 263118 (257K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2019/S3.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2019/Poster%20BP.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 122898 (120K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2019/Poster BP.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2019/Academicvisit2019.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 145434 (142K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2019/Academicvisit2019.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/OP.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 152130 (149K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/OP.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/PS1.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 124454 (122K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/PS1.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/PS2.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 125083 (122K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/PS2.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/PS3.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 134702 (132K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/PS3.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/CC-1-A.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 129474 (126K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/CC-1-A.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/CC-1-B.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 130026 (127K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/CC-1-B.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/CC-2-A.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 123118 (120K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/CC-2-A.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/CC3.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 132761 (130K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/CC3.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/IS,%20SC2.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 131724 (129K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/IS, SC2.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/SC3.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 133720 (131K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/SC3.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/SC1.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 135085 (132K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/SC1.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/BEST1%20C0002.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 94979 (93K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/BEST1 C0002.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/BEST2%20H0004.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 98878 (97K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/BEST2 H0004.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/BEST3%20C0022.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 99680 (97K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/BEST3 C0022.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/BEST4%20H0011.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 96579 (94K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/BEST4 H0011.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/visit.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 235916 (230K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/visit.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/visit1.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 210279 (205K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/visit1.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/visit2.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 210385 (205K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/visit2.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/ICIIT2018/visit4.JPG
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 317298 (310K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/ICIIT2018/visit4.JPG.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:14--  https://www.iciit.org/images/venue/2.jpg
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 126380 (123K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/venue/2.jpg.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:15--  https://www.iciit.org/images/office-girl.png
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15573 (15K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing /tmp/iciit-spider/www.iciit.org/images/office-girl.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:15--  https://www.iciit.org/fonts/fontawesome-webfont.eot?v=4.7.0
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:15--  https://www.iciit.org/fonts/fontawesome-webfont.eot?
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:15--  https://www.iciit.org/fonts/fontawesome-webfont.woff2?v=4.7.0
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:15--  https://www.iciit.org/fonts/fontawesome-webfont.woff?v=4.7.0
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:15--  https://www.iciit.org/fonts/fontawesome-webfont.ttf?v=4.7.0
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-20 21:29:15--  https://www.iciit.org/fonts/fontawesome-webfont.svg?v=4.7.0
+Reusing existing connection to www.iciit.org:443.
+HTTP request sent, awaiting response... 404 Not Found
+Remote file does not exist -- broken link!!!
+
+Found 43 broken links.
+
+https://www.iciit.org/css/images/ie6/borderMiddleRight.png
+https://www.iciit.org/css/includes/fonts/social.eot
+https://www.iciit.org/css/images/border1.png
+https://www.iciit.org/images/ico-tick.png
+https://www.iciit.org/images/shortcode-arrow.png
+https://www.iciit.org/css/images/ie6/borderBottomRight.png
+https://www.iciit.org/images/ico-alert.png
+https://www.iciit.org/css/images/ie6/borderMiddleLeft.png
+https://www.iciit.org/images%5COptoelectronics%20Letters.jpg
+https://www.iciit.org/images/ico-download.png
+https://www.iciit.org/images/shortcode-toggle-open.png
+https://www.iciit.org/images/shortcode-star.png
+https://www.iciit.org/fonts/fontawesome-webfont.eot?
+https://www.iciit.org/css/images/ie6/borderTopCenter.png
+https://www.iciit.org/images/ico-note.png
+https://www.iciit.org/images/shortcode-green-dot.png
+https://www.iciit.org/fonts/fontawesome-webfont.woff?v=4.7.0
+https://www.iciit.org/css/includes/fonts/social.eot?
+https://www.iciit.org/images/shortcode-red-x.png
+https://www.iciit.org/fonts/fontawesome-webfont.ttf?v=4.7.0
+https://www.iciit.org/css/images/loading.gif
+https://www.iciit.org/css/images/ie6/borderBottomLeft.png
+https://www.iciit.org/js/wlwmanifest.xml
+https://www.iciit.org/css/includes/fonts/social.woff
+https://www.iciit.org/css/includes/fonts/fontawesome-webfont.svg?v=4.5.0
+https://www.iciit.org/images/quote.png
+https://www.iciit.org/js/embed
+https://www.iciit.org/%E7%BC%83%E6%88%A0%E7%8F%AF%E9%8D%92%E6%9C%B5%E7%B6%94/2018/Feb.%2026-28%20Hanoi%20Vietnam/ICBCT%202018/img/groovepaper.png
+https://www.iciit.org/css/includes/fonts/social.svg
+https://www.iciit.org/css/images/portfolio-hover.png
+https://www.iciit.org/images%5CICIIT2024%5CICIIT2024GP.JPG
+https://www.iciit.org/css/images/ie6/borderBottomCenter.png
+https://www.iciit.org/images/shortcode-tick.png
+https://www.iciit.org/fonts/fontawesome-webfont.eot?v=4.7.0
+https://www.iciit.org/fonts/fontawesome-webfont.woff2?v=4.7.0
+https://www.iciit.org/fonts/fontawesome-webfont.svg?v=4.7.0
+https://www.iciit.org/images/shortcode-toggle-close.png
+https://www.iciit.org/images/ico-info.png
+https://www.iciit.org/css/includes/fonts/social.ttf
+https://www.iciit.org/css/images/ie6/borderTopLeft.png
+https://www.iciit.org/css/images/ie6/borderTopRight.png
+https://www.iciit.org/css/images/border2.png
+https://www.iciit.org/images/shortcode-bullet.png
+
+FINISHED --2026-05-20 21:29:15--
+Total wall clock time: 21s
+Downloaded: 31 files, 849K in 0.4s (2.19 MB/s)
