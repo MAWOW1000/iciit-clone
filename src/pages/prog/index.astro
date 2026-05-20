@@ -11,7 +11,7 @@ const content = normalizeAssetLinks(contentHtml);
 <BaseLayout
   title={title}
   description={description}
-  canonical={new URL('/prog/', Astro.site).toString()}
+  canonical={new URL('/prog', Astro.site).toString()}
 >
   <Fragment set:html={content} />
 </BaseLayout>
